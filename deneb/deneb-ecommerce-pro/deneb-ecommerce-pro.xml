@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Deneb</title>
-	<link>https://fireflythemes.com/demo/deneb-ecommerce-pro</link>
+	<link>https://demo.fireflythemes.com/deneb-ecommerce-pro</link>
 	<description> E-commerce Pro</description>
 	<pubDate>Sun, 08 Nov 2020 02:37:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://fireflythemes.com/demo/</wp:base_site_url>
-	<wp:base_blog_url>https://fireflythemes.com/demo/deneb-ecommerce-pro</wp:base_blog_url>
+	<wp:base_site_url>http://demo.fireflythemes.com/</wp:base_site_url>
+	<wp:base_blog_url>https://demo.fireflythemes.com/deneb-ecommerce-pro</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fireflythemes]]></wp:author_login><wp:author_email><![CDATA[info@fireflythemes.com]]></wp:author_email><wp:author_display_name><![CDATA[fireflythemes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[shopmanager]]></wp:author_login><wp:author_email><![CDATA[info@woocommerce.com]]></wp:author_email><wp:author_display_name><![CDATA[Shop Manager]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -405,19 +405,19 @@
 	<generator>https://wordpress.org/?v=5.5.3</generator>
 
 <image>
-	<url>https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cropped-logo.png</url>
+	<url>https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cropped-logo.png</url>
 	<title>Deneb</title>
-	<link>https://fireflythemes.com/demo/deneb-ecommerce-pro</link>
+	<link>https://demo.fireflythemes.com/deneb-ecommerce-pro</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
 		<title>client-new-1</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/client-new-1/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/client-new-1/</link>
 		<pubDate>Tue, 17 Mar 2020 07:26:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-1.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -433,7 +433,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/client-new-1.png]]></wp:meta_value>
@@ -445,10 +445,10 @@
 							</item>
 					<item>
 		<title>client-new-2</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/client-new-2/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/client-new-2/</link>
 		<pubDate>Tue, 17 Mar 2020 07:26:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-2.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -464,7 +464,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-2.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/client-new-2.png]]></wp:meta_value>
@@ -476,10 +476,10 @@
 							</item>
 					<item>
 		<title>client-new-3</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/client-new-3/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/client-new-3/</link>
 		<pubDate>Tue, 17 Mar 2020 07:26:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-3.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -495,7 +495,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-3.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-3.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/client-new-3.png]]></wp:meta_value>
@@ -507,10 +507,10 @@
 							</item>
 					<item>
 		<title>client-new-4</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/client-new-4/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/client-new-4/</link>
 		<pubDate>Tue, 17 Mar 2020 07:26:58 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-4.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -526,7 +526,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-4.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/client-new-4.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/client-new-4.png]]></wp:meta_value>
@@ -538,10 +538,10 @@
 							</item>
 					<item>
 		<title>cap-2.jpg</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/cap-2-jpg/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/cap-2-jpg/</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:04 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/cap-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/cap-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -557,7 +557,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/cap-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/cap-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/cap-2.jpg]]></wp:meta_value>
@@ -573,10 +573,10 @@
 							</item>
 					<item>
 		<title>sunglasses-2.jpg</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?attachment_id=234</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?attachment_id=234</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:05 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/sunglasses-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/sunglasses-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -592,7 +592,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/sunglasses-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/sunglasses-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/sunglasses-2.jpg]]></wp:meta_value>
@@ -608,10 +608,10 @@
 							</item>
 					<item>
 		<title>team-1</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/team-1/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/team-1/</link>
 		<pubDate>Mon, 30 Mar 2020 10:04:47 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -627,7 +627,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/team-1.jpg]]></wp:meta_value>
@@ -639,10 +639,10 @@
 							</item>
 					<item>
 		<title>team-3</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/team-3/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/team-3/</link>
 		<pubDate>Mon, 30 Mar 2020 10:04:48 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -658,7 +658,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/team-3.jpg]]></wp:meta_value>
@@ -670,10 +670,10 @@
 							</item>
 					<item>
 		<title>team-4</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/team-4/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/team-4/</link>
 		<pubDate>Mon, 30 Mar 2020 10:04:50 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -689,7 +689,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/team-4.jpg]]></wp:meta_value>
@@ -701,10 +701,10 @@
 							</item>
 					<item>
 		<title>team-5</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/team-5/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/team-5/</link>
 		<pubDate>Mon, 30 Mar 2020 10:04:51 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-5.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -720,7 +720,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/team-5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/team-5.jpg]]></wp:meta_value>
@@ -732,10 +732,10 @@
 							</item>
 					<item>
 		<title>portfolio-1</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/portfolio-1/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/portfolio-1/</link>
 		<pubDate>Thu, 28 May 2020 09:47:26 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -751,7 +751,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/portfolio-1.jpg]]></wp:meta_value>
@@ -763,10 +763,10 @@
 							</item>
 					<item>
 		<title>portfolio-2</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/portfolio-2/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/portfolio-2/</link>
 		<pubDate>Thu, 28 May 2020 09:47:28 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -782,7 +782,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/portfolio-2.jpg]]></wp:meta_value>
@@ -794,10 +794,10 @@
 							</item>
 					<item>
 		<title>portfolio-3</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/portfolio-3/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/portfolio-3/</link>
 		<pubDate>Thu, 28 May 2020 09:47:30 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -813,7 +813,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/portfolio-3.jpg]]></wp:meta_value>
@@ -825,10 +825,10 @@
 							</item>
 					<item>
 		<title>portfolio-4</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/portfolio-4/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/portfolio-4/</link>
 		<pubDate>Thu, 28 May 2020 09:47:32 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -844,7 +844,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/portfolio-4.jpg]]></wp:meta_value>
@@ -856,10 +856,10 @@
 							</item>
 					<item>
 		<title>portfolio-5</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/portfolio-5/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/portfolio-5/</link>
 		<pubDate>Thu, 28 May 2020 09:47:33 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-5.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -875,7 +875,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/portfolio-5.jpg]]></wp:meta_value>
@@ -887,10 +887,10 @@
 							</item>
 					<item>
 		<title>portfolio-6</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/portfolio-6/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/portfolio-6/</link>
 		<pubDate>Thu, 28 May 2020 09:47:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-6.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -906,7 +906,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-6.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/portfolio-6.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/portfolio-6.jpg]]></wp:meta_value>
@@ -918,10 +918,10 @@
 							</item>
 					<item>
 		<title>sider222</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/sider222/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/sider222/</link>
 		<pubDate>Fri, 29 May 2020 13:23:42 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/sider222.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/sider222.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -937,7 +937,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/sider222.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/05/sider222.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/sider222.jpg]]></wp:meta_value>
@@ -949,10 +949,10 @@
 							</item>
 					<item>
 		<title>slider6-min</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/slider6-min/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/slider6-min/</link>
 		<pubDate>Tue, 09 Jun 2020 10:17:15 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider6-min.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider6-min.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -968,7 +968,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider6-min.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider6-min.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slider6-min.jpg]]></wp:meta_value>
@@ -980,10 +980,10 @@
 							</item>
 					<item>
 		<title>slider-6-min</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/slider-6-min/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/slider-6-min/</link>
 		<pubDate>Tue, 09 Jun 2020 10:17:20 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider-6-min.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider-6-min.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -999,7 +999,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider-6-min.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider-6-min.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slider-6-min.jpg]]></wp:meta_value>
@@ -1011,10 +1011,10 @@
 							</item>
 					<item>
 		<title>banner-image-new</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/banner-image-new/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/banner-image-new/</link>
 		<pubDate>Thu, 18 Jun 2020 14:34:22 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1030,7 +1030,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/banner-image-new.jpg]]></wp:meta_value>
@@ -1042,10 +1042,10 @@
 							</item>
 					<item>
 		<title>banner-image-new-1</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/banner-image-new-1/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/banner-image-new-1/</link>
 		<pubDate>Thu, 18 Jun 2020 14:34:24 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1061,7 +1061,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/banner-image-new-1.jpg]]></wp:meta_value>
@@ -1073,10 +1073,10 @@
 							</item>
 					<item>
 		<title>banner-image-new-2</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/banner-image-new-2/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/banner-image-new-2/</link>
 		<pubDate>Thu, 18 Jun 2020 14:34:26 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1092,7 +1092,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/banner-image-new-2.jpg]]></wp:meta_value>
@@ -1104,10 +1104,10 @@
 							</item>
 					<item>
 		<title>banner-image-new-3</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/banner-image-new-3/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/banner-image-new-3/</link>
 		<pubDate>Thu, 18 Jun 2020 14:34:29 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new-3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1123,7 +1123,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner-image-new-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/banner-image-new-3.jpg]]></wp:meta_value>
@@ -1135,10 +1135,10 @@
 							</item>
 					<item>
 		<title>product-2</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?attachment_id=768</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?attachment_id=768</link>
 		<pubDate>Mon, 22 Jun 2020 07:37:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1154,7 +1154,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-2.jpg]]></wp:meta_value>
@@ -1166,10 +1166,10 @@
 							</item>
 					<item>
 		<title>product-1</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?attachment_id=771</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?attachment_id=771</link>
 		<pubDate>Mon, 22 Jun 2020 07:38:49 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1185,7 +1185,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-1.jpg]]></wp:meta_value>
@@ -1197,10 +1197,10 @@
 							</item>
 					<item>
 		<title>product-3</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?attachment_id=772</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?attachment_id=772</link>
 		<pubDate>Mon, 22 Jun 2020 07:38:50 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1216,7 +1216,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-3.jpg]]></wp:meta_value>
@@ -1228,10 +1228,10 @@
 							</item>
 					<item>
 		<title>product-4</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?attachment_id=773</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?attachment_id=773</link>
 		<pubDate>Mon, 22 Jun 2020 07:38:52 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1247,7 +1247,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-4.jpg]]></wp:meta_value>
@@ -1259,10 +1259,10 @@
 							</item>
 					<item>
 		<title>product-5</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?attachment_id=774</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?attachment_id=774</link>
 		<pubDate>Mon, 22 Jun 2020 07:38:55 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-5.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1278,7 +1278,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-5.jpg]]></wp:meta_value>
@@ -1290,10 +1290,10 @@
 							</item>
 					<item>
 		<title>product-6</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?attachment_id=775</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?attachment_id=775</link>
 		<pubDate>Mon, 22 Jun 2020 07:38:56 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-6.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1309,7 +1309,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-6.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-6.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-6.jpg]]></wp:meta_value>
@@ -1321,10 +1321,10 @@
 							</item>
 					<item>
 		<title>product-7</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?attachment_id=776</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?attachment_id=776</link>
 		<pubDate>Mon, 22 Jun 2020 07:38:59 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-7.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-7.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1340,7 +1340,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-7.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-7.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-7.jpg]]></wp:meta_value>
@@ -1352,10 +1352,10 @@
 							</item>
 					<item>
 		<title>product-8</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?attachment_id=777</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?attachment_id=777</link>
 		<pubDate>Mon, 22 Jun 2020 07:39:00 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-8.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1371,7 +1371,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-8.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-8.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-8.jpg]]></wp:meta_value>
@@ -1383,10 +1383,10 @@
 							</item>
 					<item>
 		<title>product-9</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?attachment_id=778</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?attachment_id=778</link>
 		<pubDate>Mon, 22 Jun 2020 07:39:01 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-9.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-9.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1402,7 +1402,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-9.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-9.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-9.jpg]]></wp:meta_value>
@@ -1414,10 +1414,10 @@
 							</item>
 					<item>
 		<title>product-10</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?attachment_id=779</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?attachment_id=779</link>
 		<pubDate>Mon, 22 Jun 2020 07:39:02 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-10.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-10.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1433,7 +1433,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-10.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-10.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-10.jpg]]></wp:meta_value>
@@ -1445,10 +1445,10 @@
 							</item>
 					<item>
 		<title>product-11</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?attachment_id=780</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?attachment_id=780</link>
 		<pubDate>Mon, 22 Jun 2020 07:39:03 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-11.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-11.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1464,7 +1464,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-11.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-11.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-11.jpg]]></wp:meta_value>
@@ -1476,10 +1476,10 @@
 							</item>
 					<item>
 		<title>product-12</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?attachment_id=781</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?attachment_id=781</link>
 		<pubDate>Mon, 22 Jun 2020 07:39:04 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-12.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-12.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1495,7 +1495,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-12.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-12.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-12.jpg]]></wp:meta_value>
@@ -1507,10 +1507,10 @@
 							</item>
 					<item>
 		<title>product-13</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?attachment_id=783</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?attachment_id=783</link>
 		<pubDate>Mon, 22 Jun 2020 07:39:06 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-13.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-13.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1526,7 +1526,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-13.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2019/01/product-13.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-13.jpg]]></wp:meta_value>
@@ -1538,10 +1538,10 @@
 							</item>
 					<item>
 		<title>slide3</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/slide3/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/slide3/</link>
 		<pubDate>Mon, 22 Jun 2020 10:15:37 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1557,7 +1557,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slide3.jpg]]></wp:meta_value>
@@ -1569,10 +1569,10 @@
 							</item>
 					<item>
 		<title>slide4</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/slide4/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/slide4/</link>
 		<pubDate>Mon, 22 Jun 2020 10:15:41 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1588,7 +1588,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slide4.jpg]]></wp:meta_value>
@@ -1600,10 +1600,10 @@
 							</item>
 					<item>
 		<title>slide5</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/slide5/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/slide5/</link>
 		<pubDate>Mon, 22 Jun 2020 10:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide5.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1619,7 +1619,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slide5.jpg]]></wp:meta_value>
@@ -1631,10 +1631,10 @@
 							</item>
 					<item>
 		<title>slide6</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/slide6/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/slide6/</link>
 		<pubDate>Mon, 22 Jun 2020 10:15:46 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide6.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1650,7 +1650,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide6.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide6.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slide6.jpg]]></wp:meta_value>
@@ -1662,10 +1662,10 @@
 							</item>
 					<item>
 		<title>slide7</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/slide7/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/slide7/</link>
 		<pubDate>Mon, 22 Jun 2020 10:15:48 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide7.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide7.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1681,7 +1681,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide7.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide7.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slide7.jpg]]></wp:meta_value>
@@ -1693,10 +1693,10 @@
 							</item>
 					<item>
 		<title>slide8</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/slide8/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/slide8/</link>
 		<pubDate>Mon, 22 Jun 2020 10:15:51 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide8.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1712,7 +1712,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide8.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide8.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slide8.jpg]]></wp:meta_value>
@@ -1732,10 +1732,10 @@
 							</item>
 					<item>
 		<title>slider1</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/slider1/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/slider1/</link>
 		<pubDate>Mon, 22 Jun 2020 10:15:54 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1751,7 +1751,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slider1.jpg]]></wp:meta_value>
@@ -1763,10 +1763,10 @@
 							</item>
 					<item>
 		<title>slider2</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/slider2/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/slider2/</link>
 		<pubDate>Mon, 22 Jun 2020 10:15:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1782,7 +1782,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slider2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slider2.jpg]]></wp:meta_value>
@@ -1802,10 +1802,10 @@
 							</item>
 					<item>
 		<title>cropped-logo</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/cropped-logo/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/cropped-logo/</link>
 		<pubDate>Mon, 22 Jun 2020 10:40:24 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cropped-logo.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cropped-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1821,7 +1821,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cropped-logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cropped-logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/cropped-logo.png]]></wp:meta_value>
@@ -1833,10 +1833,10 @@
 							</item>
 					<item>
 		<title>blog1</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/27/a-story-of-how-she-built-a-50-million-postcard-empire/blog1/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/27/a-story-of-how-she-built-a-50-million-postcard-empire/blog1/</link>
 		<pubDate>Mon, 22 Jun 2020 10:56:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1852,7 +1852,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/blog1.jpg]]></wp:meta_value>
@@ -1864,10 +1864,10 @@
 							</item>
 					<item>
 		<title>blog2</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/27/a-story-of-how-she-built-a-50-million-postcard-empire/blog2/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/27/a-story-of-how-she-built-a-50-million-postcard-empire/blog2/</link>
 		<pubDate>Mon, 22 Jun 2020 10:56:55 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1883,7 +1883,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/blog2.jpg]]></wp:meta_value>
@@ -1895,10 +1895,10 @@
 							</item>
 					<item>
 		<title>blog3</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/27/a-story-of-how-she-built-a-50-million-postcard-empire/blog3/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/27/a-story-of-how-she-built-a-50-million-postcard-empire/blog3/</link>
 		<pubDate>Mon, 22 Jun 2020 10:56:56 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1914,7 +1914,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/blog3.jpg]]></wp:meta_value>
@@ -1926,10 +1926,10 @@
 							</item>
 					<item>
 		<title>blog4</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/27/a-story-of-how-she-built-a-50-million-postcard-empire/blog4/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/27/a-story-of-how-she-built-a-50-million-postcard-empire/blog4/</link>
 		<pubDate>Mon, 22 Jun 2020 10:56:58 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1945,7 +1945,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/blog4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/blog4.jpg]]></wp:meta_value>
@@ -1957,10 +1957,10 @@
 							</item>
 					<item>
 		<title>cat2</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/cat2/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/cat2/</link>
 		<pubDate>Wed, 24 Jun 2020 14:02:15 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1976,7 +1976,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/cat2.jpg]]></wp:meta_value>
@@ -1988,10 +1988,10 @@
 							</item>
 					<item>
 		<title>cat3</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/cat3/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/cat3/</link>
 		<pubDate>Wed, 24 Jun 2020 14:02:17 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2007,7 +2007,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/cat3.jpg]]></wp:meta_value>
@@ -2019,10 +2019,10 @@
 							</item>
 					<item>
 		<title>cat4</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/cat4/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/cat4/</link>
 		<pubDate>Wed, 24 Jun 2020 14:02:18 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2038,7 +2038,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/cat4.jpg]]></wp:meta_value>
@@ -2050,10 +2050,10 @@
 							</item>
 					<item>
 		<title>cat5</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/cat5/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/cat5/</link>
 		<pubDate>Wed, 24 Jun 2020 14:02:20 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat5.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2069,7 +2069,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/cat5.jpg]]></wp:meta_value>
@@ -2081,10 +2081,10 @@
 							</item>
 					<item>
 		<title>cat6</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/cat6/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/cat6/</link>
 		<pubDate>Wed, 24 Jun 2020 14:02:21 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat6.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2100,7 +2100,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat6.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/cat6.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/cat6.jpg]]></wp:meta_value>
@@ -2112,10 +2112,10 @@
 							</item>
 					<item>
 		<title>slide-1</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/slide-1/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/slide-1/</link>
 		<pubDate>Thu, 25 Jun 2020 04:39:00 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2131,7 +2131,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slide-1.jpg]]></wp:meta_value>
@@ -2143,10 +2143,10 @@
 							</item>
 					<item>
 		<title>slide-2</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/slide-2/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/slide-2/</link>
 		<pubDate>Thu, 25 Jun 2020 04:39:04 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2162,7 +2162,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slide-2.jpg]]></wp:meta_value>
@@ -2174,10 +2174,10 @@
 							</item>
 					<item>
 		<title>slide-3</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/slide-3/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/slide-3/</link>
 		<pubDate>Thu, 25 Jun 2020 04:39:08 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2193,7 +2193,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slide-3.jpg]]></wp:meta_value>
@@ -2205,10 +2205,10 @@
 							</item>
 					<item>
 		<title>slide-4</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/slide-4/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/slide-4/</link>
 		<pubDate>Thu, 25 Jun 2020 04:39:11 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2224,7 +2224,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/slide-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slide-4.jpg]]></wp:meta_value>
@@ -2236,10 +2236,10 @@
 							</item>
 					<item>
 		<title>banner</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/banner/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/banner/</link>
 		<pubDate>Thu, 25 Jun 2020 06:18:29 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2255,7 +2255,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/banner.jpg]]></wp:meta_value>
@@ -2267,10 +2267,10 @@
 							</item>
 					<item>
 		<title>banner2</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/banner2/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/banner2/</link>
 		<pubDate>Thu, 25 Jun 2020 07:11:32 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2286,7 +2286,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/banner2.jpg]]></wp:meta_value>
@@ -2298,10 +2298,10 @@
 							</item>
 					<item>
 		<title>Home</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/home/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/home/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/home/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2348,15 +2348,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/18/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/18/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/18/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/18/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2408,10 +2408,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/19/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/19/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/19/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/19/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2463,10 +2463,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/20/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/20/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/20/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/20/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2518,10 +2518,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/21/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/21/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/21/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/21/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2573,10 +2573,10 @@
 							</item>
 					<item>
 		<title>facebook</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/facebook/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/facebook/</link>
 		<pubDate>Mon, 16 Mar 2020 07:23:30 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/facebook/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/facebook/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2628,10 +2628,10 @@
 							</item>
 					<item>
 		<title>Twitter</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/twitter/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/twitter/</link>
 		<pubDate>Mon, 16 Mar 2020 07:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/twitter/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/twitter/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2683,10 +2683,10 @@
 							</item>
 					<item>
 		<title>Instagram</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/instagram/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/instagram/</link>
 		<pubDate>Mon, 16 Mar 2020 07:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/instagram/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/instagram/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2738,10 +2738,10 @@
 							</item>
 					<item>
 		<title>Youtube</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/youtube/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/youtube/</link>
 		<pubDate>Mon, 16 Mar 2020 07:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/youtube/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/youtube/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2793,10 +2793,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/27/243/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/27/243/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?p=243</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?p=243</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2848,10 +2848,10 @@
 							</item>
 					<item>
 		<title>Newsletter</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/mc4wp-form/newsletter/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/mc4wp-form/newsletter/</link>
 		<pubDate>Fri, 27 Mar 2020 13:56:08 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/mc4wp-form/newsletter/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/mc4wp-form/newsletter/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>
 	<label>Email address: 
@@ -2919,10 +2919,10 @@
 							</item>
 					<item>
 		<title>versatile-business-pro</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/05/01/versatile-business-pro/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/05/01/versatile-business-pro/</link>
 		<pubDate>Fri, 01 May 2020 12:00:12 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/05/01/versatile-business-pro/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/05/01/versatile-business-pro/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2941,10 +2941,10 @@
 														</item>
 					<item>
 		<title>banner3</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/banner3/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/banner3/</link>
 		<pubDate>Thu, 25 Jun 2020 07:11:33 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2960,7 +2960,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/06/banner3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/banner3.jpg]]></wp:meta_value>
@@ -2972,10 +2972,10 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/woocommerce-placeholder/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/woocommerce-placeholder/</link>
 		<pubDate>Thu, 23 Jul 2020 12:53:05 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/07/woocommerce-placeholder.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/07/woocommerce-placeholder.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2991,7 +2991,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
@@ -3003,10 +3003,10 @@
 							</item>
 					<item>
 		<title>client-new-lite-1</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/client-new-lite-1/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/client-new-lite-1/</link>
 		<pubDate>Wed, 02 Sep 2020 10:00:21 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-1.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3022,7 +3022,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/09/client-new-lite-1.png]]></wp:meta_value>
@@ -3034,10 +3034,10 @@
 							</item>
 					<item>
 		<title>client-new-lite-2</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/client-new-lite-2/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/client-new-lite-2/</link>
 		<pubDate>Wed, 02 Sep 2020 10:00:34 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-2.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3053,7 +3053,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-2.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/09/client-new-lite-2.png]]></wp:meta_value>
@@ -3065,10 +3065,10 @@
 							</item>
 					<item>
 		<title>client-new-lite-3</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/client-new-lite-3/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/client-new-lite-3/</link>
 		<pubDate>Wed, 02 Sep 2020 10:00:37 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-3.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3084,7 +3084,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-3.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-3.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/09/client-new-lite-3.png]]></wp:meta_value>
@@ -3096,10 +3096,10 @@
 							</item>
 					<item>
 		<title>client-new-lite-4</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/client-new-lite-4/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/client-new-lite-4/</link>
 		<pubDate>Wed, 02 Sep 2020 10:00:52 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-4.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3115,7 +3115,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-4.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-4.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/09/client-new-lite-4.png]]></wp:meta_value>
@@ -3127,10 +3127,10 @@
 							</item>
 					<item>
 		<title>client-new-lite-5</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/client-new-lite-5/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/client-new-lite-5/</link>
 		<pubDate>Wed, 02 Sep 2020 10:01:05 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-5.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-5.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3146,7 +3146,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-5.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-5.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/09/client-new-lite-5.png]]></wp:meta_value>
@@ -3158,10 +3158,10 @@
 							</item>
 					<item>
 		<title>client-new-lite-6</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/client-new-lite-6/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/client-new-lite-6/</link>
 		<pubDate>Wed, 02 Sep 2020 10:01:21 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-6.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-6.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3177,7 +3177,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-6.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/09/client-new-lite-6.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/09/client-new-lite-6.png]]></wp:meta_value>
@@ -3189,10 +3189,10 @@
 							</item>
 					<item>
 		<title>Home</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/</link>
 		<pubDate>Mon, 16 Mar 2020 06:55:26 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?page_id=5</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?page_id=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3223,10 +3223,10 @@
 							</item>
 					<item>
 		<title>About Us</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/about-us/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/about-us/</link>
 		<pubDate>Mon, 16 Mar 2020 06:55:45 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?page_id=7</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?page_id=7</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -3237,7 +3237,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:gallery {"ids":[84,83,82,62,63,61]} -->
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post4.jpg" alt="" data-id="84" data-full-url="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post4.jpg" data-link="https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post4/" class="wp-image-84"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-2-1024x740.jpg" alt="" data-id="83" data-full-url="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-2.jpg" data-link="https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-2/" class="wp-image-83"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-1-1024x740.jpg" alt="" data-id="82" data-full-url="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-1.jpg" data-link="https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-1/" class="wp-image-82"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project2.jpg" alt="" data-id="62" data-full-url="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project2.jpg" data-link="https://fireflythemes.com/demo/deneb-ecommerce-pro/project2/" class="wp-image-62"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project3.jpg" alt="" data-id="63" data-full-url="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project3.jpg" data-link="https://fireflythemes.com/demo/deneb-ecommerce-pro/project3/" class="wp-image-63"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project1.jpg" alt="" data-id="61" data-full-url="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project1.jpg" data-link="https://fireflythemes.com/demo/deneb-ecommerce-pro/project1/" class="wp-image-61"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post4.jpg" alt="" data-id="84" data-full-url="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post4.jpg" data-link="https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post4/" class="wp-image-84"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-2-1024x740.jpg" alt="" data-id="83" data-full-url="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-2.jpg" data-link="https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-2/" class="wp-image-83"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-1-1024x740.jpg" alt="" data-id="82" data-full-url="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-1.jpg" data-link="https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-1/" class="wp-image-82"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project2.jpg" alt="" data-id="62" data-full-url="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project2.jpg" data-link="https://demo.fireflythemes.com/deneb-ecommerce-pro/project2/" class="wp-image-62"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project3.jpg" alt="" data-id="63" data-full-url="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project3.jpg" data-link="https://demo.fireflythemes.com/deneb-ecommerce-pro/project3/" class="wp-image-63"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project1.jpg" alt="" data-id="61" data-full-url="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project1.jpg" data-link="https://demo.fireflythemes.com/deneb-ecommerce-pro/project1/" class="wp-image-61"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
@@ -3283,10 +3283,10 @@
 							</item>
 					<item>
 		<title>Contact Us</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/contact-us/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/contact-us/</link>
 		<pubDate>Mon, 16 Mar 2020 06:55:54 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?page_id=8</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?page_id=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>[contact-form-7 id="646" title="Contract Form"]</p>
@@ -3343,10 +3343,10 @@
 							</item>
 					<item>
 		<title>Services</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/services/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/services/</link>
 		<pubDate>Mon, 16 Mar 2020 06:56:03 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?page_id=9</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?page_id=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br><br></p>
@@ -3391,10 +3391,10 @@
 							</item>
 					<item>
 		<title>Blog</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/blog/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/blog/</link>
 		<pubDate>Mon, 16 Mar 2020 06:56:17 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?page_id=10</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?page_id=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3425,10 +3425,10 @@
 							</item>
 					<item>
 		<title>Shop</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/shop/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/shop/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/shop/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/shop/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3459,10 +3459,10 @@
 							</item>
 					<item>
 		<title>Cart</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/cart/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/cart/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/cart/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/cart/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3481,10 +3481,10 @@
 														</item>
 					<item>
 		<title>Checkout</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/checkout/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/checkout/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/checkout/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/checkout/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_checkout]<!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3503,10 +3503,10 @@
 														</item>
 					<item>
 		<title>My account</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/my-account/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/my-account/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/my-account/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/my-account/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3525,10 +3525,10 @@
 														</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/27/244/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/27/244/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?p=244</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?p=244</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3580,10 +3580,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/27/245/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/27/245/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?p=245</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?p=245</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3635,10 +3635,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/27/246/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/27/246/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?p=246</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?p=246</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3690,10 +3690,10 @@
 							</item>
 					<item>
 		<title>Pages</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/05/01/pages/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/05/01/pages/</link>
 		<pubDate>Fri, 01 May 2020 14:31:16 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?p=367</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?p=367</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3745,10 +3745,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/06/22/828/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/06/22/828/</link>
 		<pubDate>Mon, 22 Jun 2020 13:21:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/06/22/828/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/06/22/828/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3800,10 +3800,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/06/22/829/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/06/22/829/</link>
 		<pubDate>Mon, 22 Jun 2020 13:21:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/06/22/829/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/06/22/829/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3855,10 +3855,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/06/22/830/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/06/22/830/</link>
 		<pubDate>Mon, 22 Jun 2020 13:21:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/06/22/830/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/06/22/830/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3910,10 +3910,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/06/22/831/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/06/22/831/</link>
 		<pubDate>Mon, 22 Jun 2020 13:21:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/06/22/831/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/06/22/831/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3965,10 +3965,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/06/22/832/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/06/22/832/</link>
 		<pubDate>Mon, 22 Jun 2020 13:21:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/06/22/832/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/06/22/832/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4020,10 +4020,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/06/22/833/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/06/22/833/</link>
 		<pubDate>Mon, 22 Jun 2020 13:21:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/06/22/833/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/06/22/833/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4075,10 +4075,10 @@
 							</item>
 					<item>
 		<title>Categorys</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/06/22/categorys/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/06/22/categorys/</link>
 		<pubDate>Mon, 22 Jun 2020 13:23:09 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/06/22/categorys/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/06/22/categorys/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4130,10 +4130,10 @@
 							</item>
 					<item>
 		<title>Is It Worth Taking Risks Dealing With Stock Market?</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/is-it-worth-taking-risks-dealing-with-stock-market/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/is-it-worth-taking-risks-dealing-with-stock-market/</link>
 		<pubDate>Mon, 16 Mar 2020 15:15:27 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?p=68</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?p=68</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -4191,10 +4191,10 @@
 							</item>
 					<item>
 		<title>What’s Madison Avenue Pitching Now? Cultural Awareness</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/whats-madison-avenue-pitching-now-cultural-awareness/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/whats-madison-avenue-pitching-now-cultural-awareness/</link>
 		<pubDate>Mon, 16 Mar 2020 15:15:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?p=69</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?p=69</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -4252,10 +4252,10 @@
 							</item>
 					<item>
 		<title>Great things in business are never done by one person</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/great-things-in-business-are-never-done-by-one-person/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/great-things-in-business-are-never-done-by-one-person/</link>
 		<pubDate>Mon, 16 Mar 2020 15:15:05 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?p=70</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?p=70</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -4313,10 +4313,10 @@
 							</item>
 					<item>
 		<title>Publishers Retreat From The Risks of Google-YouTube Advertising</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/publishers-retreat-from-the-risks-of-google-youtube-advertising/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/publishers-retreat-from-the-risks-of-google-youtube-advertising/</link>
 		<pubDate>Mon, 16 Mar 2020 15:14:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?p=71</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?p=71</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -4366,10 +4366,10 @@
 							</item>
 					<item>
 		<title>A Story of How She Built a $50 Million Postcard Empire</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/27/a-story-of-how-she-built-a-50-million-postcard-empire/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/27/a-story-of-how-she-built-a-50-million-postcard-empire/</link>
 		<pubDate>Fri, 27 Mar 2020 09:54:04 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?p=191</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?p=191</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br></p>
@@ -4423,7 +4423,7 @@
 							</item>
 					<item>
 		<title>Midi Skirt</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/product/midi-skirt/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/product/midi-skirt/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/sunglasses/</guid>
@@ -4593,7 +4593,7 @@
 							</item>
 					<item>
 		<title>Ladies Jeans</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/product/ladies-jeans/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/product/ladies-jeans/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-with-pocket/</guid>
@@ -4766,7 +4766,7 @@
 							</item>
 					<item>
 		<title>Women Tops</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/product/women-tops/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/product/women-tops/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-with-zipper/</guid>
@@ -4942,7 +4942,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 							</item>
 					<item>
 		<title>Printed Tops</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/product/printed-tops/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/product/printed-tops/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/long-sleeve-tee/</guid>
@@ -5111,7 +5111,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 							</item>
 					<item>
 		<title>Leather Jacket</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/product/leather-jacket/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/product/leather-jacket/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/polo/</guid>
@@ -5281,7 +5281,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 							</item>
 					<item>
 		<title>Gents T-Shirt</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/product/gents-t-shirt/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/product/gents-t-shirt/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/album/</guid>
@@ -5450,7 +5450,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 							</item>
 					<item>
 		<title>Collar T-Shirt</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/product/collar-t-shirt/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/product/collar-t-shirt/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/single/</guid>
@@ -5618,7 +5618,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 							</item>
 					<item>
 		<title>Sun Glass</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/product/sun-glass/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/product/sun-glass/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/t-shirt-with-logo/</guid>
@@ -5828,7 +5828,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 					</item>
 					<item>
 		<title>Sports Bra</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/product/sports-bra/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/product/sports-bra/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/beanie-with-logo/</guid>
@@ -5997,7 +5997,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 							</item>
 					<item>
 		<title>Ladies Hat</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/product/ladies-hat/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/product/ladies-hat/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/logo-collection/</guid>
@@ -6186,7 +6186,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 					</item>
 					<item>
 		<title>Jeans Jacket</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/product/jeans-jacket/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/product/jeans-jacket/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/wordpress-pennant/</guid>
@@ -6354,10 +6354,10 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 							</item>
 					<item>
 		<title>Contact Form</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?post_type=wpcf7_contact_form&#038;p=268</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?post_type=wpcf7_contact_form&#038;p=268</link>
 		<pubDate>Fri, 27 Mar 2020 14:37:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?post_type=wpcf7_contact_form&#038;p=268</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?post_type=wpcf7_contact_form&#038;p=268</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="inner-wrapper clear-fix">
 <div class="ff-grid-6">
@@ -6389,7 +6389,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Versatile Business Pro (https://fireflythemes.com/demo/deneb-ecommerce-pro)
+This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/deneb-ecommerce-pro)
 Reply-To: [your-email]
 
 
@@ -6402,7 +6402,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Versatile Business Pro (https://fireflythemes.com/demo/deneb-ecommerce-pro)
+This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/deneb-ecommerce-pro)
 Reply-To: info@example.com
 
 
@@ -6473,7 +6473,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Versatile Business Pro (https://fireflythemes.com/demo/deneb-ecommerce-pro)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/deneb-ecommerce-pro)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -6481,7 +6481,7 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://fire
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Versatile Business Pro (https://fireflythemes.com/demo/deneb-ecommerce-pro)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/deneb-ecommerce-pro)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -6498,10 +6498,10 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://fire
 							</item>
 					<item>
 		<title>Typography</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/356-2/</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/356-2/</link>
 		<pubDate>Fri, 01 May 2020 14:17:00 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?page_id=356</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?page_id=356</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
 <h2>H1 Heading</h2>
@@ -6556,7 +6556,7 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://fire
 <!-- /wp:heading -->
 
 <!-- wp:gallery {"ids":[63,62,61,82,83,84]} -->
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project3.jpg" alt="" data-id="63" data-full-url="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project3.jpg" data-link="https://fireflythemes.com/demo/deneb-ecommerce-pro/project3/" class="wp-image-63"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project2.jpg" alt="" data-id="62" data-full-url="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project2.jpg" data-link="https://fireflythemes.com/demo/deneb-ecommerce-pro/project2/" class="wp-image-62"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project1.jpg" alt="" data-id="61" data-full-url="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project1.jpg" data-link="https://fireflythemes.com/demo/deneb-ecommerce-pro/project1/" class="wp-image-61"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-1-1024x740.jpg" alt="" data-id="82" data-full-url="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-1.jpg" data-link="https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-1/" class="wp-image-82"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-2-1024x740.jpg" alt="" data-id="83" data-full-url="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-2.jpg" data-link="https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-2/" class="wp-image-83"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post4.jpg" alt="" data-id="84" data-full-url="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post4.jpg" data-link="https://fireflythemes.com/demo/deneb-ecommerce-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post4/" class="wp-image-84"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project3.jpg" alt="" data-id="63" data-full-url="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project3.jpg" data-link="https://demo.fireflythemes.com/deneb-ecommerce-pro/project3/" class="wp-image-63"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project2.jpg" alt="" data-id="62" data-full-url="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project2.jpg" data-link="https://demo.fireflythemes.com/deneb-ecommerce-pro/project2/" class="wp-image-62"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project1.jpg" alt="" data-id="61" data-full-url="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project1.jpg" data-link="https://demo.fireflythemes.com/deneb-ecommerce-pro/project1/" class="wp-image-61"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-1-1024x740.jpg" alt="" data-id="82" data-full-url="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-1.jpg" data-link="https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-1/" class="wp-image-82"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-2-1024x740.jpg" alt="" data-id="83" data-full-url="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post-2.jpg" data-link="https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-2/" class="wp-image-83"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post4.jpg" alt="" data-id="84" data-full-url="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post4.jpg" data-link="https://demo.fireflythemes.com/deneb-ecommerce-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post4/" class="wp-image-84"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:heading -->
@@ -6801,7 +6801,7 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://fire
 <!-- /wp:separator -->
 
 <!-- wp:image {"id":331,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/04/08-min-1024x427.jpg" alt="" class="wp-image-331"/></figure>
+<figure class="wp-block-image size-large"><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/04/08-min-1024x427.jpg" alt="" class="wp-image-331"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -6817,7 +6817,7 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://fire
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":86,"width":400,"height":300,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post5.jpg" alt="" class="wp-image-86" width="400" height="300"/></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/post5.jpg" alt="" class="wp-image-86" width="400" height="300"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -6833,7 +6833,7 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://fire
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":62,"width":419,"height":447,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project2.jpg" alt="" class="wp-image-62" width="419" height="447"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/03/project2.jpg" alt="" class="wp-image-62" width="419" height="447"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -6857,7 +6857,7 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://fire
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":331,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://fireflythemes.com/demo/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/04/08-min-1024x427.jpg" alt="" class="wp-image-331"/></figure>
+<figure class="wp-block-image size-large"><img src="https://demo.fireflythemes.com/deneb-ecommerce-pro/wp-content/uploads/sites/70/2020/04/08-min-1024x427.jpg" alt="" class="wp-image-331"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -6891,10 +6891,10 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://fire
 							</item>
 					<item>
 		<title>Contract Form</title>
-		<link>https://fireflythemes.com/demo/deneb-ecommerce-pro/?post_type=wpcf7_contact_form&#038;p=646</link>
+		<link>https://demo.fireflythemes.com/deneb-ecommerce-pro/?post_type=wpcf7_contact_form&#038;p=646</link>
 		<pubDate>Fri, 29 May 2020 15:07:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-ecommerce-pro/?post_type=wpcf7_contact_form&#038;p=646</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-ecommerce-pro/?post_type=wpcf7_contact_form&#038;p=646</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label> Your Name (required)
     [text* your-name] </label>
@@ -6920,7 +6920,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on FF Multipurpose Pro (https://fireflythemes.com/demo/deneb-ecommerce-pro)
+This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/deneb-ecommerce-pro)
 Reply-To: [your-email]
 
 
@@ -6933,7 +6933,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on FF Multipurpose Pro (https://fireflythemes.com/demo/deneb-ecommerce-pro)
+This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/deneb-ecommerce-pro)
 Reply-To: info@example.com
 
 
@@ -6998,7 +6998,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on FF Multipurpose Pro (https://fireflythemes.com/demo/deneb-ecommerce-pro)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/deneb-ecommerce-pro)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -7006,7 +7006,7 @@ This e-mail was sent from a contact form on FF Multipurpose Pro (https://firefly
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on FF Multipurpose Pro (https://fireflythemes.com/demo/deneb-ecommerce-pro)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/deneb-ecommerce-pro)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>

@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Deneb Gym Pro</title>
-	<link>https://fireflythemes.com/demo/deneb-gym-pro</link>
+	<link>https://demo.fireflythemes.com/deneb-gym-pro</link>
 	<description></description>
 	<pubDate>Sun, 08 Nov 2020 02:35:36 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://fireflythemes.com/demo/</wp:base_site_url>
-	<wp:base_blog_url>https://fireflythemes.com/demo/deneb-gym-pro</wp:base_blog_url>
+	<wp:base_site_url>http://demo.fireflythemes.com/</wp:base_site_url>
+	<wp:base_blog_url>https://demo.fireflythemes.com/deneb-gym-pro</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fireflythemes]]></wp:author_login><wp:author_email><![CDATA[info@fireflythemes.com]]></wp:author_email><wp:author_display_name><![CDATA[fireflythemes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[shopmanager]]></wp:author_login><wp:author_email><![CDATA[info@woocommerce.com]]></wp:author_email><wp:author_display_name><![CDATA[Shop Manager]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -301,10 +301,10 @@
 
 		<item>
 		<title>woocommerce-placeholder</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/woocommerce-placeholder/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/woocommerce-placeholder/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:08 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/woocommerce-placeholder.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/woocommerce-placeholder.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -320,7 +320,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
@@ -332,10 +332,10 @@
 							</item>
 					<item>
 		<title>team-1</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/team-1/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/team-1/</link>
 		<pubDate>Mon, 30 Mar 2020 10:04:47 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -351,7 +351,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/team-1.jpg]]></wp:meta_value>
@@ -363,10 +363,10 @@
 							</item>
 					<item>
 		<title>team-3</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/team-3/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/team-3/</link>
 		<pubDate>Mon, 30 Mar 2020 10:04:48 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -382,7 +382,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/team-3.jpg]]></wp:meta_value>
@@ -394,10 +394,10 @@
 							</item>
 					<item>
 		<title>team-4</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/team-4/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/team-4/</link>
 		<pubDate>Mon, 30 Mar 2020 10:04:50 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -413,7 +413,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/team-4.jpg]]></wp:meta_value>
@@ -425,10 +425,10 @@
 							</item>
 					<item>
 		<title>team-5</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/team-5/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/team-5/</link>
 		<pubDate>Mon, 30 Mar 2020 10:04:51 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-5.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -444,7 +444,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/team-5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/team-5.jpg]]></wp:meta_value>
@@ -456,10 +456,10 @@
 							</item>
 					<item>
 		<title>Neve-gym-logo</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/neve-gym-logo/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/neve-gym-logo/</link>
 		<pubDate>Sun, 21 Jun 2020 14:21:51 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/Neve-gym-logo.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/Neve-gym-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -475,7 +475,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/Neve-gym-logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/Neve-gym-logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/Neve-gym-logo.png]]></wp:meta_value>
@@ -487,10 +487,10 @@
 							</item>
 					<item>
 		<title>slider1</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/slider1/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/slider1/</link>
 		<pubDate>Sun, 21 Jun 2020 14:47:16 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -506,7 +506,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slider1.jpg]]></wp:meta_value>
@@ -526,10 +526,10 @@
 							</item>
 					<item>
 		<title>slider2</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/slider2/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/slider2/</link>
 		<pubDate>Sun, 21 Jun 2020 14:47:18 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -545,7 +545,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slider2.jpg]]></wp:meta_value>
@@ -557,10 +557,10 @@
 							</item>
 					<item>
 		<title>slider3</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/slider3/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/slider3/</link>
 		<pubDate>Sun, 21 Jun 2020 14:47:20 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -576,7 +576,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slider3.jpg]]></wp:meta_value>
@@ -588,10 +588,10 @@
 							</item>
 					<item>
 		<title>slider4</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/slider4/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/slider4/</link>
 		<pubDate>Sun, 21 Jun 2020 14:47:22 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -607,7 +607,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slider4.jpg]]></wp:meta_value>
@@ -619,10 +619,10 @@
 							</item>
 					<item>
 		<title>slider5</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/slider5/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/slider5/</link>
 		<pubDate>Sun, 21 Jun 2020 14:47:24 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider5.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -638,7 +638,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slider5.jpg]]></wp:meta_value>
@@ -650,10 +650,10 @@
 							</item>
 					<item>
 		<title>slider6</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/slider6/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/slider6/</link>
 		<pubDate>Sun, 21 Jun 2020 14:47:27 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider6.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -669,7 +669,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider6.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider6.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slider6.jpg]]></wp:meta_value>
@@ -681,10 +681,10 @@
 							</item>
 					<item>
 		<title>slider7</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/slider7/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/slider7/</link>
 		<pubDate>Sun, 21 Jun 2020 14:47:30 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider7.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider7.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -700,7 +700,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider7.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider7.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slider7.jpg]]></wp:meta_value>
@@ -720,10 +720,10 @@
 							</item>
 					<item>
 		<title>slider8</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/slider8/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/slider8/</link>
 		<pubDate>Sun, 21 Jun 2020 14:47:33 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider8.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -739,7 +739,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider8.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/slider8.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slider8.jpg]]></wp:meta_value>
@@ -751,10 +751,10 @@
 							</item>
 					<item>
 		<title>cropped-about</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/cropped-about/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/cropped-about/</link>
 		<pubDate>Sun, 21 Jun 2020 14:57:03 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/cropped-about.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/cropped-about.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -770,7 +770,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/cropped-about.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/cropped-about.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/cropped-about.png]]></wp:meta_value>
@@ -782,10 +782,10 @@
 							</item>
 					<item>
 		<title>feature_image</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/feature_image/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/feature_image/</link>
 		<pubDate>Sun, 21 Jun 2020 15:28:09 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/feature_image.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/feature_image.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -801,7 +801,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/feature_image.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/feature_image.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/feature_image.png]]></wp:meta_value>
@@ -813,10 +813,10 @@
 							</item>
 					<item>
 		<title>make-yourself-smart</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/make-yourself-smart/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/make-yourself-smart/</link>
 		<pubDate>Sun, 21 Jun 2020 15:49:41 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/make-yourself-smart.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/make-yourself-smart.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -832,7 +832,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/make-yourself-smart.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/make-yourself-smart.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/make-yourself-smart.jpg]]></wp:meta_value>
@@ -844,10 +844,10 @@
 							</item>
 					<item>
 		<title>class1</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/class1/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/class1/</link>
 		<pubDate>Sun, 21 Jun 2020 16:16:06 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class1.jpeg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class1.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -863,7 +863,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class1.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class1.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/class1.jpeg]]></wp:meta_value>
@@ -875,10 +875,10 @@
 							</item>
 					<item>
 		<title>class2</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/class2/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/class2/</link>
 		<pubDate>Sun, 21 Jun 2020 16:16:09 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -894,7 +894,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/class2.jpg]]></wp:meta_value>
@@ -906,10 +906,10 @@
 							</item>
 					<item>
 		<title>class3</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/class3/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/class3/</link>
 		<pubDate>Sun, 21 Jun 2020 16:16:12 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class3.jpeg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class3.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -925,7 +925,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class3.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class3.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/class3.jpeg]]></wp:meta_value>
@@ -937,10 +937,10 @@
 							</item>
 					<item>
 		<title>class4</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/class4/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/class4/</link>
 		<pubDate>Sun, 21 Jun 2020 16:16:14 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -956,7 +956,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/class4.jpg]]></wp:meta_value>
@@ -968,10 +968,10 @@
 							</item>
 					<item>
 		<title>class5</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/class5/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/class5/</link>
 		<pubDate>Sun, 21 Jun 2020 16:16:17 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class5.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -987,7 +987,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/class5.jpg]]></wp:meta_value>
@@ -999,10 +999,10 @@
 							</item>
 					<item>
 		<title>class6</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/class6/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/class6/</link>
 		<pubDate>Sun, 21 Jun 2020 16:16:19 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class6.jpeg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class6.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1018,7 +1018,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class6.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/class6.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/class6.jpeg]]></wp:meta_value>
@@ -1030,10 +1030,10 @@
 							</item>
 					<item>
 		<title>about-img</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/about-img-2/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/about-img-2/</link>
 		<pubDate>Sun, 21 Jun 2020 16:25:11 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/about-img.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/about-img.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1049,7 +1049,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/about-img.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/about-img.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/about-img.jpg]]></wp:meta_value>
@@ -1061,10 +1061,10 @@
 							</item>
 					<item>
 		<title>bodybuilding</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/bodybuilding/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/bodybuilding/</link>
 		<pubDate>Sun, 21 Jun 2020 16:25:12 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/bodybuilding.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/bodybuilding.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1080,7 +1080,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/bodybuilding.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/bodybuilding.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/bodybuilding.jpg]]></wp:meta_value>
@@ -1092,10 +1092,10 @@
 							</item>
 					<item>
 		<title>cardio</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/cardio/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/cardio/</link>
 		<pubDate>Sun, 21 Jun 2020 16:25:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/cardio.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/cardio.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1111,7 +1111,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/cardio.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/cardio.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/cardio.jpg]]></wp:meta_value>
@@ -1123,10 +1123,10 @@
 							</item>
 					<item>
 		<title>crossfit</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/crossfit/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/crossfit/</link>
 		<pubDate>Sun, 21 Jun 2020 16:25:14 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/crossfit.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/crossfit.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1142,7 +1142,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/crossfit.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/crossfit.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/crossfit.jpg]]></wp:meta_value>
@@ -1154,10 +1154,10 @@
 							</item>
 					<item>
 		<title>fitness</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/fitness/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/fitness/</link>
 		<pubDate>Sun, 21 Jun 2020 16:25:15 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/fitness.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/fitness.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1173,7 +1173,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/fitness.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/fitness.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/fitness.jpg]]></wp:meta_value>
@@ -1185,10 +1185,10 @@
 							</item>
 					<item>
 		<title>coach1</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/coach1/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/coach1/</link>
 		<pubDate>Sun, 21 Jun 2020 16:29:40 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1204,7 +1204,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/coach1.jpg]]></wp:meta_value>
@@ -1216,10 +1216,10 @@
 							</item>
 					<item>
 		<title>coach2</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/coach2/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/coach2/</link>
 		<pubDate>Sun, 21 Jun 2020 16:29:41 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1235,7 +1235,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/coach2.jpg]]></wp:meta_value>
@@ -1247,10 +1247,10 @@
 							</item>
 					<item>
 		<title>coach3</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/coach3/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/coach3/</link>
 		<pubDate>Sun, 21 Jun 2020 16:29:42 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1266,7 +1266,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/coach3.jpg]]></wp:meta_value>
@@ -1278,10 +1278,10 @@
 							</item>
 					<item>
 		<title>coach4</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/coach4/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/coach4/</link>
 		<pubDate>Sun, 21 Jun 2020 16:29:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1297,7 +1297,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/coach4.jpg]]></wp:meta_value>
@@ -1309,10 +1309,10 @@
 							</item>
 					<item>
 		<title>blog1</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/blog1/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/blog1/</link>
 		<pubDate>Mon, 22 Jun 2020 03:00:06 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1328,7 +1328,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/blog1.jpg]]></wp:meta_value>
@@ -1340,10 +1340,10 @@
 							</item>
 					<item>
 		<title>blog2</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/blog2/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/blog2/</link>
 		<pubDate>Mon, 22 Jun 2020 03:00:08 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1359,7 +1359,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/blog2.jpg]]></wp:meta_value>
@@ -1371,10 +1371,10 @@
 							</item>
 					<item>
 		<title>blog3</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/blog3/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/blog3/</link>
 		<pubDate>Mon, 22 Jun 2020 03:00:09 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1390,7 +1390,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/blog3.jpg]]></wp:meta_value>
@@ -1402,10 +1402,10 @@
 							</item>
 					<item>
 		<title>pro-img1-1</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/pro-img1-1/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/pro-img1-1/</link>
 		<pubDate>Mon, 22 Jun 2020 03:00:10 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img1-1.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img1-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1421,7 +1421,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img1-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img1-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/pro-img1-1.png]]></wp:meta_value>
@@ -1433,10 +1433,10 @@
 							</item>
 					<item>
 		<title>pro-img2</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/pro-img2/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/pro-img2/</link>
 		<pubDate>Mon, 22 Jun 2020 03:00:11 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img2.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1452,7 +1452,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img2.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/pro-img2.png]]></wp:meta_value>
@@ -1464,10 +1464,10 @@
 							</item>
 					<item>
 		<title>pro-img3</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/pro-img3/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/pro-img3/</link>
 		<pubDate>Mon, 22 Jun 2020 03:00:12 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img3.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1483,7 +1483,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img3.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img3.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/pro-img3.png]]></wp:meta_value>
@@ -1495,10 +1495,10 @@
 							</item>
 					<item>
 		<title>pro-img4</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/pro-img4/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/pro-img4/</link>
 		<pubDate>Mon, 22 Jun 2020 03:00:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img4.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1514,7 +1514,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img4.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img4.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/pro-img4.png]]></wp:meta_value>
@@ -1526,10 +1526,10 @@
 							</item>
 					<item>
 		<title>pro-img4-1</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/pro-img4-1/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/pro-img4-1/</link>
 		<pubDate>Mon, 22 Jun 2020 03:00:15 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img4-1.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img4-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1545,7 +1545,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img4-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img4-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/pro-img4-1.png]]></wp:meta_value>
@@ -1557,10 +1557,10 @@
 							</item>
 					<item>
 		<title>Home</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/home/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/home/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/home/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1607,15 +1607,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/18/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/18/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/18/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/18/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1667,10 +1667,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/19/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/19/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/19/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/19/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1722,10 +1722,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/20/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/20/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/20/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/20/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1777,10 +1777,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/21/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/21/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/21/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/21/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1832,10 +1832,10 @@
 							</item>
 					<item>
 		<title>facebook</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/facebook/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/facebook/</link>
 		<pubDate>Mon, 16 Mar 2020 07:23:30 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/facebook/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/facebook/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1887,10 +1887,10 @@
 							</item>
 					<item>
 		<title>Twitter</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/twitter/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/twitter/</link>
 		<pubDate>Mon, 16 Mar 2020 07:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/twitter/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/twitter/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1942,10 +1942,10 @@
 							</item>
 					<item>
 		<title>Instagram</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/instagram/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/instagram/</link>
 		<pubDate>Mon, 16 Mar 2020 07:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/instagram/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/instagram/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1997,10 +1997,10 @@
 							</item>
 					<item>
 		<title>Youtube</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/youtube/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/youtube/</link>
 		<pubDate>Mon, 16 Mar 2020 07:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/youtube/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/youtube/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2052,10 +2052,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/243/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/243/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?p=243</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?p=243</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2107,10 +2107,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/244/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/244/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?p=244</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?p=244</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2162,10 +2162,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/245/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/245/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?p=245</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?p=245</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2217,10 +2217,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/246/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/246/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?p=246</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?p=246</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2272,10 +2272,10 @@
 							</item>
 					<item>
 		<title>Newsletter</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/mc4wp-form/newsletter/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/mc4wp-form/newsletter/</link>
 		<pubDate>Fri, 27 Mar 2020 13:56:08 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/mc4wp-form/newsletter/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/mc4wp-form/newsletter/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>
 	<label>Email address: 
@@ -2343,10 +2343,10 @@
 							</item>
 					<item>
 		<title>versatile-business-pro</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/versatile-business-pro/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/versatile-business-pro/</link>
 		<pubDate>Fri, 01 May 2020 12:00:12 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/versatile-business-pro/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/versatile-business-pro/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2365,10 +2365,10 @@
 														</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/366/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/366/</link>
 		<pubDate>Fri, 01 May 2020 14:30:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?p=366</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?p=366</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2420,10 +2420,10 @@
 							</item>
 					<item>
 		<title>Pages</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/pages/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/pages/</link>
 		<pubDate>Fri, 01 May 2020 14:31:16 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?p=367</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?p=367</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2475,10 +2475,10 @@
 							</item>
 					<item>
 		<title>Features</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/features/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/features/</link>
 		<pubDate>Fri, 01 May 2020 15:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/features/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/features/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2530,10 +2530,10 @@
 							</item>
 					<item>
 		<title>pro-img5</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/pro-img5/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/pro-img5/</link>
 		<pubDate>Mon, 22 Jun 2020 03:00:16 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img5.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img5.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2549,7 +2549,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img5.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/pro-img5.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/pro-img5.png]]></wp:meta_value>
@@ -2561,10 +2561,10 @@
 							</item>
 					<item>
 		<title>pro-img6-300x300</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/?attachment_id=848</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/?attachment_id=848</link>
 		<pubDate>Mon, 22 Jun 2020 03:10:52 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/pro-img6-300x300-1.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/pro-img6-300x300-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2580,7 +2580,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/pro-img6-300x300-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/pro-img6-300x300-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/pro-img6-300x300-1.png]]></wp:meta_value>
@@ -2592,10 +2592,10 @@
 							</item>
 					<item>
 		<title>Home</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/</link>
 		<pubDate>Mon, 16 Mar 2020 06:55:26 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?page_id=5</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?page_id=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2626,10 +2626,10 @@
 							</item>
 					<item>
 		<title>About Us</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/about-us/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/about-us/</link>
 		<pubDate>Mon, 16 Mar 2020 06:55:45 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?page_id=7</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?page_id=7</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -2640,7 +2640,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:gallery {"ids":[813,812,811,807,829,830]} -->
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach3.jpg" alt="" data-id="813" data-full-url="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach3.jpg" data-link="https://fireflythemes.com/demo/deneb-gym-pro/coach3/" class="wp-image-813"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach2.jpg" alt="" data-id="812" data-full-url="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach2.jpg" data-link="https://fireflythemes.com/demo/deneb-gym-pro/coach2/" class="wp-image-812"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach1.jpg" alt="" data-id="811" data-full-url="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach1.jpg" data-link="https://fireflythemes.com/demo/deneb-gym-pro/coach1/" class="wp-image-811"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/fitness.jpg" alt="" data-id="807" data-full-url="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/fitness.jpg" data-link="https://fireflythemes.com/demo/deneb-gym-pro/fitness/" class="wp-image-807"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog1.jpg" alt="" data-id="829" data-full-url="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog1.jpg" data-link="https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/blog1/" class="wp-image-829"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog2.jpg" alt="" data-id="830" data-full-url="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog2.jpg" data-link="https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/blog2/" class="wp-image-830"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach3.jpg" alt="" data-id="813" data-full-url="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach3.jpg" data-link="https://demo.fireflythemes.com/deneb-gym-pro/coach3/" class="wp-image-813"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach2.jpg" alt="" data-id="812" data-full-url="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach2.jpg" data-link="https://demo.fireflythemes.com/deneb-gym-pro/coach2/" class="wp-image-812"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach1.jpg" alt="" data-id="811" data-full-url="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach1.jpg" data-link="https://demo.fireflythemes.com/deneb-gym-pro/coach1/" class="wp-image-811"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/fitness.jpg" alt="" data-id="807" data-full-url="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/fitness.jpg" data-link="https://demo.fireflythemes.com/deneb-gym-pro/fitness/" class="wp-image-807"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog1.jpg" alt="" data-id="829" data-full-url="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog1.jpg" data-link="https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/blog1/" class="wp-image-829"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog2.jpg" alt="" data-id="830" data-full-url="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog2.jpg" data-link="https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/blog2/" class="wp-image-830"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
@@ -2698,10 +2698,10 @@
 							</item>
 					<item>
 		<title>Contact Us</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/contact-us/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/contact-us/</link>
 		<pubDate>Mon, 16 Mar 2020 06:55:54 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?page_id=8</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?page_id=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>[contact-form-7 id="646" title="Contract Form"]</p>
@@ -2758,10 +2758,10 @@
 							</item>
 					<item>
 		<title>Services</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/services/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/services/</link>
 		<pubDate>Mon, 16 Mar 2020 06:56:03 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?page_id=9</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?page_id=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br><br></p>
@@ -2806,10 +2806,10 @@
 							</item>
 					<item>
 		<title>Blog</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/blog/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/blog/</link>
 		<pubDate>Mon, 16 Mar 2020 06:56:17 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?page_id=10</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?page_id=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2840,10 +2840,10 @@
 							</item>
 					<item>
 		<title>Are you famous or focused</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/are-you-famous-or-focused/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/are-you-famous-or-focused/</link>
 		<pubDate>Mon, 16 Mar 2020 15:15:27 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?p=68</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?p=68</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -2918,10 +2918,10 @@
 							</item>
 					<item>
 		<title>Little things do make a difference</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/a-story-of-how-she-built-a-50-million-postcard-empire/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/a-story-of-how-she-built-a-50-million-postcard-empire/</link>
 		<pubDate>Fri, 27 Mar 2020 09:54:04 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?p=191</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?p=191</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br></p>
@@ -2980,10 +2980,10 @@
 							</item>
 					<item>
 		<title>Shop</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/shop/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/shop/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/shop/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/shop/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3014,10 +3014,10 @@
 							</item>
 					<item>
 		<title>Cart</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/cart/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/cart/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/cart/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/cart/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3036,10 +3036,10 @@
 														</item>
 					<item>
 		<title>Checkout</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/checkout/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/checkout/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/checkout/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/checkout/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_checkout]<!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3058,10 +3058,10 @@
 														</item>
 					<item>
 		<title>My account</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/my-account/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/my-account/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/my-account/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/my-account/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3080,10 +3080,10 @@
 														</item>
 					<item>
 		<title>Typography</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/356-2/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/356-2/</link>
 		<pubDate>Fri, 01 May 2020 14:17:00 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?page_id=356</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?page_id=356</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
 <h2>H1 Heading</h2>
@@ -3138,7 +3138,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:gallery {"ids":[63,62,61,82,83,84]} -->
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/project3.jpg" alt="" data-id="63" data-full-url="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/project3.jpg" data-link="https://fireflythemes.com/demo/deneb-gym-pro/project3/" class="wp-image-63"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/project2.jpg" alt="" data-id="62" data-full-url="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/project2.jpg" data-link="https://fireflythemes.com/demo/deneb-gym-pro/project2/" class="wp-image-62"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/project1.jpg" alt="" data-id="61" data-full-url="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/project1.jpg" data-link="https://fireflythemes.com/demo/deneb-gym-pro/project1/" class="wp-image-61"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/post-1-1024x740.jpg" alt="" data-id="82" data-full-url="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/post-1.jpg" data-link="https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-1/" class="wp-image-82"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/post-2-1024x740.jpg" alt="" data-id="83" data-full-url="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/post-2.jpg" data-link="https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-2/" class="wp-image-83"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/post4.jpg" alt="" data-id="84" data-full-url="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/post4.jpg" data-link="https://fireflythemes.com/demo/deneb-gym-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post4/" class="wp-image-84"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/project3.jpg" alt="" data-id="63" data-full-url="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/project3.jpg" data-link="https://demo.fireflythemes.com/deneb-gym-pro/project3/" class="wp-image-63"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/project2.jpg" alt="" data-id="62" data-full-url="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/project2.jpg" data-link="https://demo.fireflythemes.com/deneb-gym-pro/project2/" class="wp-image-62"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/project1.jpg" alt="" data-id="61" data-full-url="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/project1.jpg" data-link="https://demo.fireflythemes.com/deneb-gym-pro/project1/" class="wp-image-61"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/post-1-1024x740.jpg" alt="" data-id="82" data-full-url="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/post-1.jpg" data-link="https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-1/" class="wp-image-82"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/post-2-1024x740.jpg" alt="" data-id="83" data-full-url="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/post-2.jpg" data-link="https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-2/" class="wp-image-83"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/post4.jpg" alt="" data-id="84" data-full-url="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/post4.jpg" data-link="https://demo.fireflythemes.com/deneb-gym-pro/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post4/" class="wp-image-84"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:heading -->
@@ -3383,7 +3383,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:image {"align":"center","id":814,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach4.jpg" alt="" class="wp-image-814"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/06/coach4.jpg" alt="" class="wp-image-814"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -3399,7 +3399,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":829,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="alignleft size-large"><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog1.jpg" alt="" class="wp-image-829"/></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large"><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog1.jpg" alt="" class="wp-image-829"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -3415,7 +3415,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"right","id":831,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="alignright size-large"><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog3.jpg" alt="" class="wp-image-831"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br>sed do eiusmod tempor incididunt ut labore </figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignright size-large"><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog3.jpg" alt="" class="wp-image-831"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br>sed do eiusmod tempor incididunt ut labore </figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -3439,7 +3439,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":829,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://fireflythemes.com/demo/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog1.jpg" alt="" class="wp-image-829"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://demo.fireflythemes.com/deneb-gym-pro/wp-content/uploads/sites/69/2020/03/blog1.jpg" alt="" class="wp-image-829"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -3485,10 +3485,10 @@
 							</item>
 					<item>
 		<title>RTL Support</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/rtl-support/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/rtl-support/</link>
 		<pubDate>Fri, 01 May 2020 15:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/rtl-support/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/rtl-support/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3540,10 +3540,10 @@
 							</item>
 					<item>
 		<title>Accessibility Ready</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/accessibility-ready/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/accessibility-ready/</link>
 		<pubDate>Fri, 01 May 2020 15:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/accessibility-ready/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/accessibility-ready/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3595,10 +3595,10 @@
 							</item>
 					<item>
 		<title>Multi Language Support</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/multi-language-support/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/multi-language-support/</link>
 		<pubDate>Fri, 01 May 2020 15:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/multi-language-support/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/multi-language-support/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3650,10 +3650,10 @@
 							</item>
 					<item>
 		<title>Color Scheme</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/color-scheme/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/color-scheme/</link>
 		<pubDate>Fri, 01 May 2020 15:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/color-scheme/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/color-scheme/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3705,10 +3705,10 @@
 							</item>
 					<item>
 		<title>Color Options</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/color-options/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/color-options/</link>
 		<pubDate>Fri, 01 May 2020 15:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/color-options/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/color-options/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3760,10 +3760,10 @@
 							</item>
 					<item>
 		<title>Fonts Options</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/fonts-options/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/fonts-options/</link>
 		<pubDate>Fri, 01 May 2020 15:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/fonts-options/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/fonts-options/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3815,10 +3815,10 @@
 							</item>
 					<item>
 		<title>Woo Commerce Ready</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/woo-commerce-ready/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/woo-commerce-ready/</link>
 		<pubDate>Fri, 01 May 2020 15:17:08 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/woo-commerce-ready/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/woo-commerce-ready/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3870,10 +3870,10 @@
 							</item>
 					<item>
 		<title>Different Header Image in Different . Page</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/different-header-image/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/different-header-image/</link>
 		<pubDate>Fri, 01 May 2020 15:18:18 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/2020/05/01/different-header-image/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/2020/05/01/different-header-image/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3925,10 +3925,10 @@
 							</item>
 					<item>
 		<title>Do you self realizations quickly fade</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/2020/03/27/do-you-self-realizations-quickly-fade/</link>
 		<pubDate>Fri, 27 Mar 2020 09:54:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?p=192</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?p=192</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br></p>
@@ -3996,7 +3996,7 @@
 							</item>
 					<item>
 		<title>LAXO PROTEIN (15% OFF)</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/product/laxo-protein-15-off/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/product/laxo-protein-15-off/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie/</guid>
@@ -4172,7 +4172,7 @@
 							</item>
 					<item>
 		<title>GOLD STARNDER WHEY 100</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/product/gold-starnder-whey-100/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/product/gold-starnder-whey-100/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-with-logo/</guid>
@@ -4341,7 +4341,7 @@
 							</item>
 					<item>
 		<title>ROCKWELL PROTEIN 500</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/product/rockwell-protein-500/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/product/rockwell-protein-500/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/t-shirt/</guid>
@@ -4510,7 +4510,7 @@
 							</item>
 					<item>
 		<title>DETO MEAL FILL DIET</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/product/deto-meal-fill-diet/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/product/deto-meal-fill-diet/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-with-pocket/</guid>
@@ -4682,7 +4682,7 @@
 							</item>
 					<item>
 		<title>VAXIN PROTEIN ( 15% OFF )</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/product/vaxin-protein-15-off/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/product/vaxin-protein-15-off/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-with-zipper/</guid>
@@ -4851,7 +4851,7 @@
 							</item>
 					<item>
 		<title>LAXO PROTEIN (15% OFF) - Red, No</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/product/laxo-protein-15-off/?attribute_pa_color=red&#038;attribute_logo=No</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/product/laxo-protein-15-off/?attribute_pa_color=red&#038;attribute_logo=No</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-red-no</guid>
@@ -5021,7 +5021,7 @@
 							</item>
 					<item>
 		<title>LAXO PROTEIN (15% OFF) - Green, No</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/product/laxo-protein-15-off/?attribute_pa_color=green&#038;attribute_logo=No</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/product/laxo-protein-15-off/?attribute_pa_color=green&#038;attribute_logo=No</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-green-no/</guid>
@@ -5191,7 +5191,7 @@
 							</item>
 					<item>
 		<title>LAXO PROTEIN (15% OFF) - Blue, No</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/product/laxo-protein-15-off/?attribute_pa_color=blue&#038;attribute_logo=No</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/product/laxo-protein-15-off/?attribute_pa_color=blue&#038;attribute_logo=No</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-blue-no</guid>
@@ -5361,7 +5361,7 @@
 							</item>
 					<item>
 		<title>LAXO PROTEIN (15% OFF) - Blue, Yes</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/product/laxo-protein-15-off/?attribute_pa_color=blue&#038;attribute_logo=Yes</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/product/laxo-protein-15-off/?attribute_pa_color=blue&#038;attribute_logo=Yes</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-blue-yes/</guid>
@@ -5531,10 +5531,10 @@
 							</item>
 					<item>
 		<title>Contact Form</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/?post_type=wpcf7_contact_form&#038;p=268</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/?post_type=wpcf7_contact_form&#038;p=268</link>
 		<pubDate>Fri, 27 Mar 2020 14:37:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?post_type=wpcf7_contact_form&#038;p=268</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?post_type=wpcf7_contact_form&#038;p=268</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="inner-wrapper clear-fix">
 <div class="ff-grid-6">
@@ -5566,7 +5566,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Versatile Business Pro (https://fireflythemes.com/demo/deneb-gym-pro)
+This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/deneb-gym-pro)
 Reply-To: [your-email]
 
 
@@ -5579,7 +5579,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Versatile Business Pro (https://fireflythemes.com/demo/deneb-gym-pro)
+This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/deneb-gym-pro)
 Reply-To: info@example.com
 
 
@@ -5650,7 +5650,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Versatile Business Pro (https://fireflythemes.com/demo/deneb-gym-pro)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/deneb-gym-pro)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -5658,7 +5658,7 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://fire
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Versatile Business Pro (https://fireflythemes.com/demo/deneb-gym-pro)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/deneb-gym-pro)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -5675,10 +5675,10 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://fire
 							</item>
 					<item>
 		<title>Contract Form</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/?post_type=wpcf7_contact_form&#038;p=646</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/?post_type=wpcf7_contact_form&#038;p=646</link>
 		<pubDate>Fri, 29 May 2020 15:07:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?post_type=wpcf7_contact_form&#038;p=646</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?post_type=wpcf7_contact_form&#038;p=646</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label> Your Name (required)
     [text* your-name] </label>
@@ -5704,7 +5704,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on FF Multipurpose Pro (https://fireflythemes.com/demo/deneb-gym-pro)
+This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/deneb-gym-pro)
 Reply-To: [your-email]
 
 
@@ -5717,7 +5717,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on FF Multipurpose Pro (https://fireflythemes.com/demo/deneb-gym-pro)
+This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/deneb-gym-pro)
 Reply-To: info@example.com
 
 
@@ -5782,7 +5782,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on FF Multipurpose Pro (https://fireflythemes.com/demo/deneb-gym-pro)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/deneb-gym-pro)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -5790,7 +5790,7 @@ This e-mail was sent from a contact form on FF Multipurpose Pro (https://firefly
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on FF Multipurpose Pro (https://fireflythemes.com/demo/deneb-gym-pro)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/deneb-gym-pro)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -5807,10 +5807,10 @@ This e-mail was sent from a contact form on FF Multipurpose Pro (https://firefly
 							</item>
 					<item>
 		<title>WHEY BLEND TGING</title>
-		<link>https://fireflythemes.com/demo/deneb-gym-pro/product/whey-blend-tging/</link>
+		<link>https://demo.fireflythemes.com/deneb-gym-pro/product/whey-blend-tging/</link>
 		<pubDate>Mon, 22 Jun 2020 03:11:10 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/deneb-gym-pro/?post_type=product&#038;p=847</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/deneb-gym-pro/?post_type=product&#038;p=847</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></excerpt:encoded>
