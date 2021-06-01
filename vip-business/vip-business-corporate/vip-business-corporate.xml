@@ -27,13 +27,13 @@
 
 <channel>
 	<title>VIP Corporate</title>
-	<link>https://fireflythemes.com/demo/vip-corporate</link>
+	<link>https://demo.fireflythemes.com/vip-corporate</link>
 	<description></description>
 	<pubDate>Thu, 23 Jul 2020 11:52:23 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://fireflythemes.com/demo/</wp:base_site_url>
-	<wp:base_blog_url>https://fireflythemes.com/demo/vip-corporate</wp:base_blog_url>
+	<wp:base_site_url>http://demo.fireflythemes.com/</wp:base_site_url>
+	<wp:base_blog_url>https://demo.fireflythemes.com/vip-corporate</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fireflythemes]]></wp:author_login><wp:author_email><![CDATA[info@fireflythemes.com]]></wp:author_email><wp:author_display_name><![CDATA[fireflythemes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[shopmanager]]></wp:author_login><wp:author_email><![CDATA[info@woocommerce.com]]></wp:author_email><wp:author_display_name><![CDATA[Shop Manager]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -478,10 +478,10 @@
 
 		<item>
 		<title>vneck-tee-2.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=31</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=31</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:56 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/vneck-tee-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/vneck-tee-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -497,7 +497,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/vneck-tee-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/vneck-tee-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vneck-tee-2.jpg]]></wp:meta_value>
@@ -513,10 +513,10 @@
 							</item>
 					<item>
 		<title>vnech-tee-blue-1.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=33</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=33</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:58 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/vnech-tee-blue-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/vnech-tee-blue-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -532,7 +532,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/vnech-tee-blue-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/vnech-tee-blue-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vnech-tee-blue-1.jpg]]></wp:meta_value>
@@ -548,10 +548,10 @@
 							</item>
 					<item>
 		<title>hoodie-2.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=34</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=34</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:58 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -567,7 +567,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/hoodie-2.jpg]]></wp:meta_value>
@@ -583,10 +583,10 @@
 							</item>
 					<item>
 		<title>hoodie-with-logo-2.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=37</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=37</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:01 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-with-logo-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-with-logo-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -602,7 +602,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-with-logo-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-with-logo-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/hoodie-with-logo-2.jpg]]></wp:meta_value>
@@ -618,10 +618,10 @@
 							</item>
 					<item>
 		<title>tshirt-2.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=38</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=38</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:02 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/tshirt-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/tshirt-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -637,7 +637,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/tshirt-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/tshirt-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/tshirt-2.jpg]]></wp:meta_value>
@@ -653,10 +653,10 @@
 							</item>
 					<item>
 		<title>vnech-tee-green-1.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=228</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=228</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:57 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/vnech-tee-green-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/vnech-tee-green-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -672,7 +672,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/vnech-tee-green-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/vnech-tee-green-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vnech-tee-green-1.jpg]]></wp:meta_value>
@@ -688,10 +688,10 @@
 							</item>
 					<item>
 		<title>hoodie-blue-1.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=229</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=229</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:59 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-blue-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-blue-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -707,7 +707,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-blue-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-blue-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/hoodie-blue-1.jpg]]></wp:meta_value>
@@ -723,10 +723,10 @@
 							</item>
 					<item>
 		<title>hoodie-green-1.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=230</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=230</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:00 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-green-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-green-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -742,7 +742,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-green-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-green-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/hoodie-green-1.jpg]]></wp:meta_value>
@@ -758,10 +758,10 @@
 							</item>
 					<item>
 		<title>beanie-2.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=231</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=231</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:02 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/beanie-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/beanie-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -777,7 +777,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/beanie-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/beanie-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/beanie-2.jpg]]></wp:meta_value>
@@ -793,10 +793,10 @@
 							</item>
 					<item>
 		<title>belt-2.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=232</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=232</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:03 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/belt-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/belt-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -812,7 +812,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/belt-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/belt-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/belt-2.jpg]]></wp:meta_value>
@@ -828,10 +828,10 @@
 							</item>
 					<item>
 		<title>cap-2.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=233</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=233</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:04 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/cap-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/cap-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -847,7 +847,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/cap-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/cap-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/cap-2.jpg]]></wp:meta_value>
@@ -863,10 +863,10 @@
 							</item>
 					<item>
 		<title>sunglasses-2.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=234</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=234</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:05 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/sunglasses-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/sunglasses-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -882,7 +882,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/sunglasses-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/sunglasses-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/sunglasses-2.jpg]]></wp:meta_value>
@@ -898,10 +898,10 @@
 							</item>
 					<item>
 		<title>hoodie-with-pocket-2.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=235</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=235</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:06 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-with-pocket-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-with-pocket-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -917,7 +917,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-with-pocket-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-with-pocket-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/hoodie-with-pocket-2.jpg]]></wp:meta_value>
@@ -933,10 +933,10 @@
 							</item>
 					<item>
 		<title>hoodie-with-zipper-2.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=236</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=236</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:06 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-with-zipper-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-with-zipper-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -952,7 +952,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-with-zipper-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/hoodie-with-zipper-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/hoodie-with-zipper-2.jpg]]></wp:meta_value>
@@ -968,10 +968,10 @@
 							</item>
 					<item>
 		<title>long-sleeve-tee-2.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=237</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=237</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:07 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/long-sleeve-tee-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/long-sleeve-tee-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -987,7 +987,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/long-sleeve-tee-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/long-sleeve-tee-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/long-sleeve-tee-2.jpg]]></wp:meta_value>
@@ -1003,10 +1003,10 @@
 							</item>
 					<item>
 		<title>polo-2.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=238</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=238</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:08 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/polo-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/polo-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1022,7 +1022,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/polo-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/polo-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/polo-2.jpg]]></wp:meta_value>
@@ -1038,10 +1038,10 @@
 							</item>
 					<item>
 		<title>album-1.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=239</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=239</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:09 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/album-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/album-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1057,7 +1057,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/album-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/album-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/album-1.jpg]]></wp:meta_value>
@@ -1073,10 +1073,10 @@
 							</item>
 					<item>
 		<title>single-1.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=240</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=240</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:10 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/single-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/single-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1092,7 +1092,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/single-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/single-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/single-1.jpg]]></wp:meta_value>
@@ -1108,10 +1108,10 @@
 							</item>
 					<item>
 		<title>t-shirt-with-logo-1.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=241</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=241</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:11 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/t-shirt-with-logo-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/t-shirt-with-logo-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1127,7 +1127,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/t-shirt-with-logo-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/t-shirt-with-logo-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/t-shirt-with-logo-1.jpg]]></wp:meta_value>
@@ -1143,10 +1143,10 @@
 							</item>
 					<item>
 		<title>beanie-with-logo-1.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=242</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=242</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/beanie-with-logo-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/beanie-with-logo-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1162,7 +1162,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/beanie-with-logo-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/beanie-with-logo-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/beanie-with-logo-1.jpg]]></wp:meta_value>
@@ -1178,10 +1178,10 @@
 							</item>
 					<item>
 		<title>pennant-1.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=52</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=52</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:13 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/pennant-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/pennant-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1197,7 +1197,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/pennant-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/pennant-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/pennant-1.jpg]]></wp:meta_value>
@@ -1213,10 +1213,10 @@
 							</item>
 					<item>
 		<title>client-new-1</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/client-new-1/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/client-new-1/</link>
 		<pubDate>Tue, 17 Mar 2020 07:26:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-1.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1232,7 +1232,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/client-new-1.png]]></wp:meta_value>
@@ -1244,10 +1244,10 @@
 							</item>
 					<item>
 		<title>client-new-2</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/client-new-2/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/client-new-2/</link>
 		<pubDate>Tue, 17 Mar 2020 07:26:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-2.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1263,7 +1263,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-2.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/client-new-2.png]]></wp:meta_value>
@@ -1275,10 +1275,10 @@
 							</item>
 					<item>
 		<title>client-new-3</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/client-new-3/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/client-new-3/</link>
 		<pubDate>Tue, 17 Mar 2020 07:26:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-3.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1294,7 +1294,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-3.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-3.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/client-new-3.png]]></wp:meta_value>
@@ -1306,10 +1306,10 @@
 							</item>
 					<item>
 		<title>client-new-4</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/client-new-4/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/client-new-4/</link>
 		<pubDate>Tue, 17 Mar 2020 07:26:58 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-4.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1325,7 +1325,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-4.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-4.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/client-new-4.png]]></wp:meta_value>
@@ -1337,10 +1337,10 @@
 							</item>
 					<item>
 		<title>client-new-7</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/client-new-7/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/client-new-7/</link>
 		<pubDate>Tue, 17 Mar 2020 07:26:58 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-7.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-7.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1356,7 +1356,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-7.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-7.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/client-new-7.png]]></wp:meta_value>
@@ -1368,10 +1368,10 @@
 							</item>
 					<item>
 		<title>client-new-8</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/client-new-8/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/client-new-8/</link>
 		<pubDate>Tue, 17 Mar 2020 07:26:59 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-8.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-8.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1387,7 +1387,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-8.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/client-new-8.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/client-new-8.png]]></wp:meta_value>
@@ -1399,10 +1399,10 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/woocommerce-placeholder/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/woocommerce-placeholder/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:08 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/woocommerce-placeholder.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/woocommerce-placeholder.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1418,7 +1418,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
@@ -1430,10 +1430,10 @@
 							</item>
 					<item>
 		<title>logo-1.jpg</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?attachment_id=247</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?attachment_id=247</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:13 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/logo-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/logo-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1449,7 +1449,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2019/01/logo-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2019/01/logo-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/logo-1.jpg]]></wp:meta_value>
@@ -1465,10 +1465,10 @@
 							</item>
 					<item>
 		<title>pic1</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/pic1/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/pic1/</link>
 		<pubDate>Thu, 25 Jun 2020 11:02:10 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/pic1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/pic1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1484,7 +1484,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/pic1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/pic1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/pic1.jpg]]></wp:meta_value>
@@ -1496,10 +1496,10 @@
 							</item>
 					<item>
 		<title>pic2</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/pic2/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/pic2/</link>
 		<pubDate>Thu, 25 Jun 2020 11:02:11 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/pic2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/pic2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1515,7 +1515,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/pic2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/pic2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/pic2.jpg]]></wp:meta_value>
@@ -1527,10 +1527,10 @@
 							</item>
 					<item>
 		<title>pic3</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/pic3/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/pic3/</link>
 		<pubDate>Thu, 25 Jun 2020 11:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/pic3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/pic3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1546,7 +1546,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/pic3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/pic3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/pic3.jpg]]></wp:meta_value>
@@ -1558,10 +1558,10 @@
 							</item>
 					<item>
 		<title>pic4</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/pic4/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/pic4/</link>
 		<pubDate>Thu, 25 Jun 2020 11:02:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/pic4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/pic4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1577,7 +1577,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/pic4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/pic4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/pic4.jpg]]></wp:meta_value>
@@ -1589,10 +1589,10 @@
 							</item>
 					<item>
 		<title>pic5</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/pic5/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/pic5/</link>
 		<pubDate>Thu, 25 Jun 2020 11:02:14 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/pic5.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/pic5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1608,7 +1608,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/pic5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/pic5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/pic5.jpg]]></wp:meta_value>
@@ -1620,10 +1620,10 @@
 							</item>
 					<item>
 		<title>bg4</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/bg4/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/bg4/</link>
 		<pubDate>Thu, 25 Jun 2020 11:27:24 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/bg4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/bg4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1639,7 +1639,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/bg4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/bg4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/bg4.jpg]]></wp:meta_value>
@@ -1659,10 +1659,10 @@
 							</item>
 					<item>
 		<title>slilde33-min</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/slilde33-min/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/slilde33-min/</link>
 		<pubDate>Thu, 25 Jun 2020 12:47:26 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/slilde33-min.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/slilde33-min.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1678,7 +1678,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/slilde33-min.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/slilde33-min.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slilde33-min.jpg]]></wp:meta_value>
@@ -1690,10 +1690,10 @@
 							</item>
 					<item>
 		<title>slide-1-min</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/slide-1-min/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/slide-1-min/</link>
 		<pubDate>Thu, 25 Jun 2020 12:51:25 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/slide-1-min.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/slide-1-min.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1709,7 +1709,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/slide-1-min.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/slide-1-min.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slide-1-min.jpg]]></wp:meta_value>
@@ -1721,10 +1721,10 @@
 							</item>
 					<item>
 		<title>slide-2-min</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/slide-2-min/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/slide-2-min/</link>
 		<pubDate>Thu, 25 Jun 2020 12:51:27 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/slide-2-min.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/slide-2-min.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1740,7 +1740,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/06/slide-2-min.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/06/slide-2-min.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/06/slide-2-min.jpg]]></wp:meta_value>
@@ -1752,10 +1752,10 @@
 							</item>
 					<item>
 		<title>01</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/01/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/01/</link>
 		<pubDate>Fri, 10 Jul 2020 08:35:20 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/01.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/01.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1771,7 +1771,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/01.jpg]]></wp:meta_value>
@@ -1783,10 +1783,10 @@
 							</item>
 					<item>
 		<title>test</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/test/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/test/</link>
 		<pubDate>Fri, 10 Jul 2020 09:32:36 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/test.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/test.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1802,7 +1802,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/test.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/test.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/test.jpg]]></wp:meta_value>
@@ -1814,10 +1814,10 @@
 							</item>
 					<item>
 		<title>vip-logo</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/vip-logo/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/vip-logo/</link>
 		<pubDate>Fri, 10 Jul 2020 11:18:32 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/vip-logo.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/vip-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1833,7 +1833,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/vip-logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/vip-logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/vip-logo.png]]></wp:meta_value>
@@ -1845,10 +1845,10 @@
 							</item>
 					<item>
 		<title>vip-logo</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/vip-logo-2/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/vip-logo-2/</link>
 		<pubDate>Fri, 10 Jul 2020 11:20:15 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/vip-logo-1.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/vip-logo-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1864,7 +1864,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/vip-logo-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/vip-logo-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/vip-logo-1.png]]></wp:meta_value>
@@ -1876,10 +1876,10 @@
 							</item>
 					<item>
 		<title>01</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/01-2/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/01-2/</link>
 		<pubDate>Fri, 10 Jul 2020 14:09:52 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/01-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/01-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1895,7 +1895,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/01-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/01-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/01-1.jpg]]></wp:meta_value>
@@ -1907,10 +1907,10 @@
 							</item>
 					<item>
 		<title>02</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/02/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/02/</link>
 		<pubDate>Fri, 10 Jul 2020 14:09:54 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/02.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/02.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1926,7 +1926,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/02.jpg]]></wp:meta_value>
@@ -1938,10 +1938,10 @@
 							</item>
 					<item>
 		<title>03</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/03/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/03/</link>
 		<pubDate>Fri, 10 Jul 2020 14:09:55 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/03.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/03.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1957,7 +1957,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/03.jpg]]></wp:meta_value>
@@ -1969,10 +1969,10 @@
 							</item>
 					<item>
 		<title>04</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/04/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/04/</link>
 		<pubDate>Fri, 10 Jul 2020 14:09:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/04.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/04.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1988,7 +1988,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/04.jpg]]></wp:meta_value>
@@ -2000,10 +2000,10 @@
 							</item>
 					<item>
 		<title>we</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/we/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/we/</link>
 		<pubDate>Sat, 11 Jul 2020 13:12:58 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/we.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/we.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2019,7 +2019,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/we.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/we.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/we.jpg]]></wp:meta_value>
@@ -2031,10 +2031,10 @@
 							</item>
 					<item>
 		<title>c-01</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/28/creative-design/c-01/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/28/creative-design/c-01/</link>
 		<pubDate>Mon, 13 Jul 2020 10:23:54 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/c-01.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/c-01.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2050,7 +2050,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/c-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/c-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/c-01.jpg]]></wp:meta_value>
@@ -2062,10 +2062,10 @@
 							</item>
 					<item>
 		<title>c-02</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/28/creative-design/c-02/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/28/creative-design/c-02/</link>
 		<pubDate>Mon, 13 Jul 2020 10:23:56 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/c-02.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/c-02.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2081,7 +2081,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/c-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/c-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/c-02.jpg]]></wp:meta_value>
@@ -2093,10 +2093,10 @@
 							</item>
 					<item>
 		<title>c-03</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/28/creative-design/c-03/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/28/creative-design/c-03/</link>
 		<pubDate>Mon, 13 Jul 2020 10:23:58 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/c-03.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/c-03.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2112,7 +2112,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/c-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/c-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/c-03.jpg]]></wp:meta_value>
@@ -2124,10 +2124,10 @@
 							</item>
 					<item>
 		<title>c-04</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/28/creative-design/c-04/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/28/creative-design/c-04/</link>
 		<pubDate>Mon, 13 Jul 2020 10:24:00 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/c-04.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/c-04.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2143,7 +2143,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/c-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/c-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/c-04.jpg]]></wp:meta_value>
@@ -2155,10 +2155,10 @@
 							</item>
 					<item>
 		<title>c-05</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/28/creative-design/c-05/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/28/creative-design/c-05/</link>
 		<pubDate>Mon, 13 Jul 2020 10:24:02 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/c-05.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/c-05.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2174,7 +2174,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/c-05.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/c-05.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/c-05.jpg]]></wp:meta_value>
@@ -2186,10 +2186,10 @@
 							</item>
 					<item>
 		<title>c-06</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/28/creative-design/c-06/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/28/creative-design/c-06/</link>
 		<pubDate>Mon, 13 Jul 2020 10:24:06 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/c-06.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/c-06.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2205,7 +2205,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/c-06.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/c-06.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/c-06.jpg]]></wp:meta_value>
@@ -2217,10 +2217,10 @@
 							</item>
 					<item>
 		<title>b1</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/b1/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/b1/</link>
 		<pubDate>Mon, 13 Jul 2020 10:26:47 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/b1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/b1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2236,7 +2236,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/b1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/b1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/b1.jpg]]></wp:meta_value>
@@ -2248,10 +2248,10 @@
 							</item>
 					<item>
 		<title>b2</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/b2/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/b2/</link>
 		<pubDate>Mon, 13 Jul 2020 10:26:51 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/b2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/b2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2267,7 +2267,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/b2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/b2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/b2.jpg]]></wp:meta_value>
@@ -2279,10 +2279,10 @@
 							</item>
 					<item>
 		<title>b3</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/b3/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/b3/</link>
 		<pubDate>Mon, 13 Jul 2020 10:26:54 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/b3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/b3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2298,7 +2298,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/b3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/b3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/b3.jpg]]></wp:meta_value>
@@ -2310,10 +2310,10 @@
 							</item>
 					<item>
 		<title>b4</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/b4/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/b4/</link>
 		<pubDate>Mon, 13 Jul 2020 10:26:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/b4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/b4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2329,7 +2329,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/b4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/b4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/b4.jpg]]></wp:meta_value>
@@ -2341,10 +2341,10 @@
 							</item>
 					<item>
 		<title>b5</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/b5/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/b5/</link>
 		<pubDate>Mon, 13 Jul 2020 10:27:06 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/b5.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/b5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2360,7 +2360,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/b5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/b5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/b5.jpg]]></wp:meta_value>
@@ -2372,12 +2372,12 @@
 							</item>
 					<item>
 		<title>cropped-vip-logo-1.png</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/cropped-vip-logo-1-png/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/cropped-vip-logo-1-png/</link>
 		<pubDate>Mon, 13 Jul 2020 12:42:34 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/cropped-vip-logo-1.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/cropped-vip-logo-1.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/cropped-vip-logo-1.png]]></content:encoded>
+		<content:encoded><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/cropped-vip-logo-1.png]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>957</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-13 12:42:34]]></wp:post_date>
@@ -2391,7 +2391,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/cropped-vip-logo-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/cropped-vip-logo-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/cropped-vip-logo-1.png]]></wp:meta_value>
@@ -2407,10 +2407,10 @@
 							</item>
 					<item>
 		<title>slide2</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/best-business-consulting/slide2/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/best-business-consulting/slide2/</link>
 		<pubDate>Tue, 14 Jul 2020 06:12:37 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2426,7 +2426,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/slide2.jpg]]></wp:meta_value>
@@ -2438,10 +2438,10 @@
 							</item>
 					<item>
 		<title>Home</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/16/home/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/16/home/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/03/16/home/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/03/16/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2488,15 +2488,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://fireflythemes.com/demo/vip-corporate]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demo.fireflythemes.com/vip-corporate]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/16/18/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/16/18/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/03/16/18/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/03/16/18/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2548,10 +2548,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/16/19/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/16/19/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/03/16/19/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/03/16/19/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2603,10 +2603,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/16/20/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/16/20/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/03/16/20/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/03/16/20/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2658,10 +2658,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/16/21/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/16/21/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/03/16/21/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/03/16/21/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2713,10 +2713,10 @@
 							</item>
 					<item>
 		<title>facebook</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/16/facebook/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/16/facebook/</link>
 		<pubDate>Mon, 16 Mar 2020 07:23:30 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/03/16/facebook/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/03/16/facebook/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2768,10 +2768,10 @@
 							</item>
 					<item>
 		<title>Twitter</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/16/twitter/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/16/twitter/</link>
 		<pubDate>Mon, 16 Mar 2020 07:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/03/16/twitter/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/03/16/twitter/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2823,10 +2823,10 @@
 							</item>
 					<item>
 		<title>Instagram</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/16/instagram/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/16/instagram/</link>
 		<pubDate>Mon, 16 Mar 2020 07:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/03/16/instagram/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/03/16/instagram/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2878,10 +2878,10 @@
 							</item>
 					<item>
 		<title>Youtube</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/16/youtube/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/16/youtube/</link>
 		<pubDate>Mon, 16 Mar 2020 07:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/03/16/youtube/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/03/16/youtube/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2933,10 +2933,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/27/243/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/27/243/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=243</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=243</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2988,10 +2988,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/27/244/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/27/244/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=244</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=244</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3043,10 +3043,10 @@
 							</item>
 					<item>
 		<title>Newsletter</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/mc4wp-form/newsletter/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/mc4wp-form/newsletter/</link>
 		<pubDate>Fri, 27 Mar 2020 13:56:08 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/mc4wp-form/newsletter/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/mc4wp-form/newsletter/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>
 	<label>Email address: 
@@ -3114,10 +3114,10 @@
 							</item>
 					<item>
 		<title>versatile-business-pro</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/01/versatile-business-pro/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/01/versatile-business-pro/</link>
 		<pubDate>Fri, 01 May 2020 12:00:12 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/05/01/versatile-business-pro/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/05/01/versatile-business-pro/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3136,10 +3136,10 @@
 														</item>
 					<item>
 		<title>slide3</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/best-business-consulting/slide3/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/best-business-consulting/slide3/</link>
 		<pubDate>Tue, 14 Jul 2020 06:16:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3155,7 +3155,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/slide3.jpg]]></wp:meta_value>
@@ -3167,10 +3167,10 @@
 							</item>
 					<item>
 		<title>slide3</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/best-business-consulting/slide3-2/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/best-business-consulting/slide3-2/</link>
 		<pubDate>Tue, 14 Jul 2020 06:18:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide3-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide3-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3186,7 +3186,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide3-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide3-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/slide3-1.jpg]]></wp:meta_value>
@@ -3198,10 +3198,10 @@
 							</item>
 					<item>
 		<title>slide4</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/best-business-consulting/slide4/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/best-business-consulting/slide4/</link>
 		<pubDate>Tue, 14 Jul 2020 06:33:56 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3217,7 +3217,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/slide4.jpg]]></wp:meta_value>
@@ -3229,10 +3229,10 @@
 							</item>
 					<item>
 		<title>slide5</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/best-business-consulting/slide5/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/best-business-consulting/slide5/</link>
 		<pubDate>Tue, 14 Jul 2020 06:35:31 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide5.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3248,7 +3248,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/slide5.jpg]]></wp:meta_value>
@@ -3260,10 +3260,10 @@
 							</item>
 					<item>
 		<title>slide6</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/best-business-consulting/slide6/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/best-business-consulting/slide6/</link>
 		<pubDate>Tue, 14 Jul 2020 06:37:17 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide6.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3279,7 +3279,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide6.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide6.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/slide6.jpg]]></wp:meta_value>
@@ -3291,10 +3291,10 @@
 							</item>
 					<item>
 		<title>slide7</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/best-business-consulting/slide7/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/best-business-consulting/slide7/</link>
 		<pubDate>Tue, 14 Jul 2020 06:40:37 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide7.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide7.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3310,7 +3310,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide7.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide7.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/slide7.jpg]]></wp:meta_value>
@@ -3322,10 +3322,10 @@
 							</item>
 					<item>
 		<title>slide8</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/best-business-consulting/slide8/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/best-business-consulting/slide8/</link>
 		<pubDate>Tue, 14 Jul 2020 06:40:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide8.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3341,7 +3341,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/07/slide8.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/07/slide8.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/07/slide8.jpg]]></wp:meta_value>
@@ -3353,10 +3353,10 @@
 							</item>
 					<item>
 		<title>Home</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/</link>
 		<pubDate>Mon, 16 Mar 2020 06:55:26 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?page_id=5</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?page_id=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3387,10 +3387,10 @@
 							</item>
 					<item>
 		<title>About Us</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/about-us/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/about-us/</link>
 		<pubDate>Mon, 16 Mar 2020 06:55:45 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?page_id=7</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?page_id=7</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -3401,7 +3401,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:gallery {"ids":[601,600,599,598,528,515,514]} -->
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-4.jpg" alt="" data-id="601" data-full-url="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-4.jpg" data-link="https://fireflythemes.com/demo/vip-corporate/2020/05/28/creative-book/portfolio-4/" class="wp-image-601"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-3.jpg" alt="" data-id="600" data-full-url="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-3.jpg" data-link="https://fireflythemes.com/demo/vip-corporate/2020/05/28/creative-book/portfolio-3/" class="wp-image-600"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-2.jpg" alt="" data-id="599" data-full-url="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-2.jpg" data-link="https://fireflythemes.com/demo/vip-corporate/2020/05/28/creative-book/portfolio-2/" class="wp-image-599"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-1.jpg" alt="" data-id="598" data-full-url="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-1.jpg" data-link="https://fireflythemes.com/demo/vip-corporate/2020/05/28/creative-book/portfolio-1/" class="wp-image-598"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/slider-7-1024x533.jpg" alt="" data-id="528" data-full-url="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/05/slider-7.jpg" data-link="https://fireflythemes.com/demo/vip-corporate/slider-7/" class="wp-image-528"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/post14.jpg" alt="" data-id="515" data-full-url="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/post14.jpg" data-link="https://fireflythemes.com/demo/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/post14/" class="wp-image-515"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/post13.jpg" alt="" data-id="514" data-full-url="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/post13.jpg" data-link="https://fireflythemes.com/demo/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/post13/" class="wp-image-514"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-4.jpg" alt="" data-id="601" data-full-url="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-4.jpg" data-link="https://demo.fireflythemes.com/vip-corporate/2020/05/28/creative-book/portfolio-4/" class="wp-image-601"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-3.jpg" alt="" data-id="600" data-full-url="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-3.jpg" data-link="https://demo.fireflythemes.com/vip-corporate/2020/05/28/creative-book/portfolio-3/" class="wp-image-600"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-2.jpg" alt="" data-id="599" data-full-url="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-2.jpg" data-link="https://demo.fireflythemes.com/vip-corporate/2020/05/28/creative-book/portfolio-2/" class="wp-image-599"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-1.jpg" alt="" data-id="598" data-full-url="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/portfolio-1.jpg" data-link="https://demo.fireflythemes.com/vip-corporate/2020/05/28/creative-book/portfolio-1/" class="wp-image-598"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/slider-7-1024x533.jpg" alt="" data-id="528" data-full-url="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/05/slider-7.jpg" data-link="https://demo.fireflythemes.com/vip-corporate/slider-7/" class="wp-image-528"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/post14.jpg" alt="" data-id="515" data-full-url="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/post14.jpg" data-link="https://demo.fireflythemes.com/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/post14/" class="wp-image-515"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/post13.jpg" alt="" data-id="514" data-full-url="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/post13.jpg" data-link="https://demo.fireflythemes.com/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/post13/" class="wp-image-514"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
@@ -3459,10 +3459,10 @@
 							</item>
 					<item>
 		<title>Contact Us</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/contact-us/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/contact-us/</link>
 		<pubDate>Mon, 16 Mar 2020 06:55:54 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?page_id=8</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?page_id=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>[contact-form-7 id="646" title="Contract Form"]</p>
@@ -3519,10 +3519,10 @@
 							</item>
 					<item>
 		<title>Services</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/services/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/services/</link>
 		<pubDate>Mon, 16 Mar 2020 06:56:03 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?page_id=9</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?page_id=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br><br></p>
@@ -3579,10 +3579,10 @@
 							</item>
 					<item>
 		<title>Blog</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/blog/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/blog/</link>
 		<pubDate>Mon, 16 Mar 2020 06:56:17 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?page_id=10</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?page_id=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3613,10 +3613,10 @@
 							</item>
 					<item>
 		<title>Shop</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/shop/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/shop/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/shop/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/shop/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3647,10 +3647,10 @@
 							</item>
 					<item>
 		<title>Cart</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/cart/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/cart/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/cart/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/cart/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3669,10 +3669,10 @@
 														</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/27/245/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/27/245/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=245</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=245</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3724,10 +3724,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/27/246/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/27/246/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=246</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=246</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3779,10 +3779,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/01/366/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/01/366/</link>
 		<pubDate>Fri, 01 May 2020 14:30:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=366</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=366</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3834,10 +3834,10 @@
 							</item>
 					<item>
 		<title>Pages</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/01/pages/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/01/pages/</link>
 		<pubDate>Fri, 01 May 2020 14:31:16 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=367</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=367</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3889,10 +3889,10 @@
 							</item>
 					<item>
 		<title>Features</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/01/features/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/01/features/</link>
 		<pubDate>Fri, 01 May 2020 15:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/05/01/features/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/05/01/features/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3944,10 +3944,10 @@
 							</item>
 					<item>
 		<title>RTL Support</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/01/rtl-support/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/01/rtl-support/</link>
 		<pubDate>Fri, 01 May 2020 15:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/05/01/rtl-support/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/05/01/rtl-support/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3999,10 +3999,10 @@
 							</item>
 					<item>
 		<title>Accessibility Ready</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/01/accessibility-ready/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/01/accessibility-ready/</link>
 		<pubDate>Fri, 01 May 2020 15:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/05/01/accessibility-ready/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/05/01/accessibility-ready/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4054,10 +4054,10 @@
 							</item>
 					<item>
 		<title>Multi Language Support</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/01/multi-language-support/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/01/multi-language-support/</link>
 		<pubDate>Fri, 01 May 2020 15:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/05/01/multi-language-support/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/05/01/multi-language-support/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4109,10 +4109,10 @@
 							</item>
 					<item>
 		<title>Color Scheme</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/01/color-scheme/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/01/color-scheme/</link>
 		<pubDate>Fri, 01 May 2020 15:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/05/01/color-scheme/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/05/01/color-scheme/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4164,10 +4164,10 @@
 							</item>
 					<item>
 		<title>Color Options</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/01/color-options/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/01/color-options/</link>
 		<pubDate>Fri, 01 May 2020 15:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/05/01/color-options/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/05/01/color-options/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4219,10 +4219,10 @@
 							</item>
 					<item>
 		<title>Fonts Options</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/01/fonts-options/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/01/fonts-options/</link>
 		<pubDate>Fri, 01 May 2020 15:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/05/01/fonts-options/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/05/01/fonts-options/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4274,10 +4274,10 @@
 							</item>
 					<item>
 		<title>Woo Commerce Ready</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/01/woo-commerce-ready/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/01/woo-commerce-ready/</link>
 		<pubDate>Fri, 01 May 2020 15:17:08 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/05/01/woo-commerce-ready/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/05/01/woo-commerce-ready/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4329,10 +4329,10 @@
 							</item>
 					<item>
 		<title>Different Header Image in Different . Page</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/01/different-header-image/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/01/different-header-image/</link>
 		<pubDate>Fri, 01 May 2020 15:18:18 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/2020/05/01/different-header-image/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/2020/05/01/different-header-image/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4384,10 +4384,10 @@
 							</item>
 					<item>
 		<title>Is It Worth Taking Risks Dealing With Stock Market?</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/16/is-it-worth-taking-risks-dealing-with-stock-market/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/16/is-it-worth-taking-risks-dealing-with-stock-market/</link>
 		<pubDate>Mon, 16 Mar 2020 15:15:27 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=68</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=68</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -4457,10 +4457,10 @@
 							</item>
 					<item>
 		<title>What’s Madison Avenue Pitching Now? Cultural Awareness</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/16/whats-madison-avenue-pitching-now-cultural-awareness/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/16/whats-madison-avenue-pitching-now-cultural-awareness/</link>
 		<pubDate>Mon, 16 Mar 2020 15:15:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=69</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=69</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -4530,10 +4530,10 @@
 							</item>
 					<item>
 		<title>Great things in business are never done by one person</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/16/great-things-in-business-are-never-done-by-one-person/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/16/great-things-in-business-are-never-done-by-one-person/</link>
 		<pubDate>Mon, 16 Mar 2020 15:15:05 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=70</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=70</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -4579,10 +4579,10 @@
 							</item>
 					<item>
 		<title>Publishers Retreat From The Risks of Google-YouTube Advertising</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/16/publishers-retreat-from-the-risks-of-google-youtube-advertising/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/16/publishers-retreat-from-the-risks-of-google-youtube-advertising/</link>
 		<pubDate>Mon, 16 Mar 2020 15:14:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=71</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=71</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -4632,10 +4632,10 @@
 							</item>
 					<item>
 		<title>A Story of How She Built a $50 Million Postcard Empire</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/27/a-story-of-how-she-built-a-50-million-postcard-empire/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/27/a-story-of-how-she-built-a-50-million-postcard-empire/</link>
 		<pubDate>Fri, 27 Mar 2020 09:54:04 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=191</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=191</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br></p>
@@ -4701,10 +4701,10 @@
 							</item>
 					<item>
 		<title>Credit Suisse CEO Focuses on Wealth Management</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/03/27/credit-suisse-ceo-focuses-on-wealth-management/</link>
 		<pubDate>Fri, 27 Mar 2020 09:54:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=192</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=192</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br></p>
@@ -4779,10 +4779,10 @@
 							</item>
 					<item>
 		<title>Checkout</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/checkout/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/checkout/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/checkout/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/checkout/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_checkout]<!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4801,10 +4801,10 @@
 														</item>
 					<item>
 		<title>My account</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/my-account/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/my-account/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/my-account/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/my-account/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4823,10 +4823,10 @@
 														</item>
 					<item>
 		<title>Typography</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/356-2/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/356-2/</link>
 		<pubDate>Fri, 01 May 2020 14:17:00 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?page_id=356</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?page_id=356</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
 <h2>H1 Heading</h2>
@@ -4881,7 +4881,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:gallery {"ids":[63,62,61,82,83,84]} -->
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/project3.jpg" alt="" data-id="63" data-full-url="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/project3.jpg" data-link="https://fireflythemes.com/demo/vip-corporate/project3/" class="wp-image-63"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/project2.jpg" alt="" data-id="62" data-full-url="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/project2.jpg" data-link="https://fireflythemes.com/demo/vip-corporate/project2/" class="wp-image-62"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/project1.jpg" alt="" data-id="61" data-full-url="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/project1.jpg" data-link="https://fireflythemes.com/demo/vip-corporate/project1/" class="wp-image-61"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/post-1-1024x740.jpg" alt="" data-id="82" data-full-url="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/post-1.jpg" data-link="https://fireflythemes.com/demo/vip-corporate/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-1/" class="wp-image-82"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/post-2-1024x740.jpg" alt="" data-id="83" data-full-url="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/post-2.jpg" data-link="https://fireflythemes.com/demo/vip-corporate/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-2/" class="wp-image-83"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/post4.jpg" alt="" data-id="84" data-full-url="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/post4.jpg" data-link="https://fireflythemes.com/demo/vip-corporate/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post4/" class="wp-image-84"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/project3.jpg" alt="" data-id="63" data-full-url="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/project3.jpg" data-link="https://demo.fireflythemes.com/vip-corporate/project3/" class="wp-image-63"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/project2.jpg" alt="" data-id="62" data-full-url="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/project2.jpg" data-link="https://demo.fireflythemes.com/vip-corporate/project2/" class="wp-image-62"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/project1.jpg" alt="" data-id="61" data-full-url="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/project1.jpg" data-link="https://demo.fireflythemes.com/vip-corporate/project1/" class="wp-image-61"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/post-1-1024x740.jpg" alt="" data-id="82" data-full-url="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/post-1.jpg" data-link="https://demo.fireflythemes.com/vip-corporate/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-1/" class="wp-image-82"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/post-2-1024x740.jpg" alt="" data-id="83" data-full-url="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/post-2.jpg" data-link="https://demo.fireflythemes.com/vip-corporate/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-2/" class="wp-image-83"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/post4.jpg" alt="" data-id="84" data-full-url="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/post4.jpg" data-link="https://demo.fireflythemes.com/vip-corporate/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post4/" class="wp-image-84"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:heading -->
@@ -5126,7 +5126,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:image {"id":331,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/04/08-min-1024x427.jpg" alt="" class="wp-image-331"/></figure>
+<figure class="wp-block-image size-large"><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/04/08-min-1024x427.jpg" alt="" class="wp-image-331"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -5142,7 +5142,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":86,"width":400,"height":300,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/post5.jpg" alt="" class="wp-image-86" width="400" height="300"/></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/post5.jpg" alt="" class="wp-image-86" width="400" height="300"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -5158,7 +5158,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":62,"width":419,"height":447,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/03/project2.jpg" alt="" class="wp-image-62" width="419" height="447"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/03/project2.jpg" alt="" class="wp-image-62" width="419" height="447"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -5182,7 +5182,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":331,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://fireflythemes.com/demo/vip-corporate/wp-content/uploads/sites/29/2020/04/08-min-1024x427.jpg" alt="" class="wp-image-331"/></figure>
+<figure class="wp-block-image size-large"><img src="https://demo.fireflythemes.com/vip-corporate/wp-content/uploads/sites/29/2020/04/08-min-1024x427.jpg" alt="" class="wp-image-331"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -5216,10 +5216,10 @@
 							</item>
 					<item>
 		<title>Creative Book</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/28/creative-book/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/28/creative-book/</link>
 		<pubDate>Thu, 28 May 2020 09:45:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=586</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=586</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Aliquet Aenean sollicitudin, lorem quis bibendum auctor, nisi elit.Proin gravida nibh vel velit auctor aliquet.Phasellus imperdiet libero sitdl amet dlante Donec convallis elemen tumd leo. Etiam non pede aecen vehicu magna quis pede. Maecenas felis quam consectetuer dictum.</p>
@@ -5269,10 +5269,10 @@
 							</item>
 					<item>
 		<title>Responsive Design</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/28/responsive-design/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/28/responsive-design/</link>
 		<pubDate>Thu, 28 May 2020 09:45:58 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=587</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=587</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Aliquet Aenean sollicitudin, lorem quis bibendum auctor, nisi elit.Proin gravida nibh vel velit auctor aliquet.Phasellus imperdiet libero sitdl amet dlante Donec convallis elemen tumd leo. Etiam non pede aecen vehicu magna quis pede. Maecenas felis quam consectetuer dictum.</p>
@@ -5324,10 +5324,10 @@
 							</item>
 					<item>
 		<title>Design Mockup</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/28/design-mockup/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/28/design-mockup/</link>
 		<pubDate>Thu, 28 May 2020 09:46:12 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=588</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=588</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Aliquet Aenean sollicitudin, lorem quis bibendum auctor, nisi elit.Proin gravida nibh vel velit auctor aliquet.Phasellus imperdiet libero sitdl amet dlante Donec convallis elemen tumd leo. Etiam non pede aecen vehicu magna quis pede. Maecenas felis quam consectetuer dictum.</p>
@@ -5378,10 +5378,10 @@
 							</item>
 					<item>
 		<title>Watch Mockup</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/28/watch-mockup/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/28/watch-mockup/</link>
 		<pubDate>Thu, 28 May 2020 09:46:24 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=589</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=589</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Aliquet Aenean sollicitudin, lorem quis bibendum auctor, nisi elit.Proin gravida nibh vel velit auctor aliquet.Phasellus imperdiet libero sitdl amet dlante Donec convallis elemen tumd leo. Etiam non pede aecen vehicu magna quis pede. Maecenas felis quam consectetuer dictum.</p>
@@ -5431,10 +5431,10 @@
 							</item>
 					<item>
 		<title>Tag Your Target</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/28/tag-your-target/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/28/tag-your-target/</link>
 		<pubDate>Thu, 28 May 2020 09:46:31 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=590</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=590</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Aliquet Aenean sollicitudin, lorem quis bibendum auctor, nisi elit.Proin gravida nibh vel velit auctor aliquet.Phasellus imperdiet libero sitdl amet dlante Donec convallis elemen tumd leo. Etiam non pede aecen vehicu magna quis pede. Maecenas felis quam consectetuer dictum.</p>
@@ -5484,10 +5484,10 @@
 							</item>
 					<item>
 		<title>Creative Design</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/05/28/creative-design/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/05/28/creative-design/</link>
 		<pubDate>Thu, 28 May 2020 09:46:48 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=591</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=591</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Aliquet Aenean sollicitudin, lorem quis bibendum auctor, nisi elit.Proin gravida nibh vel velit auctor aliquet.Phasellus imperdiet libero sitdl amet dlante Donec convallis elemen tumd leo. Etiam non pede aecen vehicu magna quis pede. Maecenas felis quam consectetuer dictum.</p>
@@ -5538,10 +5538,10 @@
 							</item>
 					<item>
 		<title>We Are Creative</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/we-are-creative/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/we-are-creative/</link>
 		<pubDate>Mon, 13 Jul 2020 12:05:34 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?page_id=929</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?page_id=929</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br></p>
@@ -5574,10 +5574,10 @@
 							</item>
 					<item>
 		<title>We Are a Global Busines Soluation provider</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/best-business-consulting/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/best-business-consulting/</link>
 		<pubDate>Mon, 13 Jul 2020 12:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?page_id=930</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?page_id=930</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br></p>
@@ -5610,10 +5610,10 @@
 							</item>
 					<item>
 		<title>Best Business Consulting</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/best-business-consulting/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/best-business-consulting/</link>
 		<pubDate>Mon, 13 Jul 2020 12:24:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=933</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=933</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br></p>
@@ -5647,10 +5647,10 @@
 							</item>
 					<item>
 		<title>We Are Creative</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/we-are-creative/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/we-are-creative/</link>
 		<pubDate>Mon, 13 Jul 2020 12:24:46 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=934</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=934</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br></p>
@@ -5684,10 +5684,10 @@
 							</item>
 					<item>
 		<title>Restructuring</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/restructuring/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/restructuring/</link>
 		<pubDate>Mon, 13 Jul 2020 12:33:09 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=941</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=941</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -5717,7 +5717,7 @@
 							</item>
 					<item>
 		<title>Belt</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/belt/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/belt/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/belt/</guid>
@@ -5881,7 +5881,7 @@
 							</item>
 					<item>
 		<title>V-Neck T-Shirt</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/v-neck-t-shirt/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/v-neck-t-shirt/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/v-neck-t-shirt/</guid>
@@ -6056,7 +6056,7 @@
 							</item>
 					<item>
 		<title>Hoodie</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/hoodie/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/hoodie/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie/</guid>
@@ -6227,7 +6227,7 @@
 							</item>
 					<item>
 		<title>Hoodie with Logo</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/hoodie-with-logo/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/hoodie-with-logo/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-with-logo/</guid>
@@ -6392,7 +6392,7 @@
 							</item>
 					<item>
 		<title>T-Shirt</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/t-shirt/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/t-shirt/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/t-shirt/</guid>
@@ -6557,7 +6557,7 @@
 							</item>
 					<item>
 		<title>Beanie</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/beanie/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/beanie/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/beanie/</guid>
@@ -6722,7 +6722,7 @@
 							</item>
 					<item>
 		<title>Cap</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/cap/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/cap/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/cap/</guid>
@@ -6888,7 +6888,7 @@
 							</item>
 					<item>
 		<title>Sunglasses</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/sunglasses/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/sunglasses/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/sunglasses/</guid>
@@ -7053,7 +7053,7 @@
 							</item>
 					<item>
 		<title>Hoodie with Pocket</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/hoodie-with-pocket/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/hoodie-with-pocket/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-with-pocket/</guid>
@@ -7221,7 +7221,7 @@
 							</item>
 					<item>
 		<title>Hoodie with Zipper</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/hoodie-with-zipper/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/hoodie-with-zipper/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-with-zipper/</guid>
@@ -7386,7 +7386,7 @@
 							</item>
 					<item>
 		<title>Long Sleeve Tee</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/long-sleeve-tee/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/long-sleeve-tee/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/long-sleeve-tee/</guid>
@@ -7551,7 +7551,7 @@
 							</item>
 					<item>
 		<title>Polo</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/polo/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/polo/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/polo/</guid>
@@ -7716,7 +7716,7 @@
 							</item>
 					<item>
 		<title>Album</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/album/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/album/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/album/</guid>
@@ -7880,7 +7880,7 @@
 							</item>
 					<item>
 		<title>Single</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/single/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/single/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/single/</guid>
@@ -8044,10 +8044,10 @@
 							</item>
 					<item>
 		<title>Strategy</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/strategy/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/strategy/</link>
 		<pubDate>Mon, 13 Jul 2020 12:33:27 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=940</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=940</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -8077,10 +8077,10 @@
 							</item>
 					<item>
 		<title>Insurance</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/insurance/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/insurance/</link>
 		<pubDate>Mon, 13 Jul 2020 12:33:14 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=942</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=942</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -8110,10 +8110,10 @@
 							</item>
 					<item>
 		<title>Financial Planning</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/financial-planning/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/financial-planning/</link>
 		<pubDate>Mon, 13 Jul 2020 12:33:20 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=943</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=943</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -8143,10 +8143,10 @@
 							</item>
 					<item>
 		<title>Unique Design</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/unique-design/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/unique-design/</link>
 		<pubDate>Mon, 13 Jul 2020 12:52:19 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=967</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=967</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -8180,10 +8180,10 @@
 							</item>
 					<item>
 		<title>More Effective Team</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/more-effective-team/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/more-effective-team/</link>
 		<pubDate>Mon, 13 Jul 2020 12:52:52 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=968</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=968</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -8217,10 +8217,10 @@
 							</item>
 					<item>
 		<title>24/hr Support</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/2020/07/13/24-hr-support/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/2020/07/13/24-hr-support/</link>
 		<pubDate>Mon, 13 Jul 2020 12:52:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?p=969</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?p=969</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -8254,7 +8254,7 @@
 							</item>
 					<item>
 		<title>V-Neck T-Shirt - Red</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/v-neck-t-shirt/?attribute_pa_color=red</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/v-neck-t-shirt/?attribute_pa_color=red</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/v-neck-t-shirt-red/</guid>
@@ -8428,7 +8428,7 @@
 							</item>
 					<item>
 		<title>V-Neck T-Shirt - Green</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/v-neck-t-shirt/?attribute_pa_color=green</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/v-neck-t-shirt/?attribute_pa_color=green</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/v-neck-t-shirt-green/</guid>
@@ -8602,7 +8602,7 @@
 							</item>
 					<item>
 		<title>V-Neck T-Shirt - Blue</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/v-neck-t-shirt/?attribute_pa_color=blue</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/v-neck-t-shirt/?attribute_pa_color=blue</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/v-neck-t-shirt-blue/</guid>
@@ -8784,7 +8784,7 @@
 							</item>
 					<item>
 		<title>Hoodie - Red, No</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/hoodie/?attribute_pa_color=red&#038;attribute_logo=No</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/hoodie/?attribute_pa_color=red&#038;attribute_logo=No</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-red-no</guid>
@@ -8958,7 +8958,7 @@
 							</item>
 					<item>
 		<title>Hoodie - Green, No</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/hoodie/?attribute_pa_color=green&#038;attribute_logo=No</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/hoodie/?attribute_pa_color=green&#038;attribute_logo=No</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-green-no/</guid>
@@ -9132,7 +9132,7 @@
 							</item>
 					<item>
 		<title>Hoodie - Blue, No</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/hoodie/?attribute_pa_color=blue&#038;attribute_logo=No</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/hoodie/?attribute_pa_color=blue&#038;attribute_logo=No</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-blue-no</guid>
@@ -9306,7 +9306,7 @@
 							</item>
 					<item>
 		<title>T-Shirt with Logo</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/t-shirt-with-logo/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/t-shirt-with-logo/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/t-shirt-with-logo/</guid>
@@ -9471,7 +9471,7 @@
 							</item>
 					<item>
 		<title>Beanie with Logo</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/beanie-with-logo/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/beanie-with-logo/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/beanie-with-logo/</guid>
@@ -9636,7 +9636,7 @@
 							</item>
 					<item>
 		<title>Logo Collection</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/logo-collection/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/logo-collection/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/logo-collection/</guid>
@@ -9800,7 +9800,7 @@
 							</item>
 					<item>
 		<title>WordPress Pennant</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/wordpress-pennant/</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/wordpress-pennant/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/wordpress-pennant/</guid>
@@ -9972,7 +9972,7 @@
 							</item>
 					<item>
 		<title>Hoodie - Blue, Yes</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/product/hoodie/?attribute_pa_color=blue&#038;attribute_logo=Yes</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/product/hoodie/?attribute_pa_color=blue&#038;attribute_logo=Yes</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-blue-yes/</guid>
@@ -10146,10 +10146,10 @@
 							</item>
 					<item>
 		<title>Contact Form</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?post_type=wpcf7_contact_form&#038;p=268</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?post_type=wpcf7_contact_form&#038;p=268</link>
 		<pubDate>Fri, 27 Mar 2020 14:37:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?post_type=wpcf7_contact_form&#038;p=268</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?post_type=wpcf7_contact_form&#038;p=268</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="inner-wrapper clear-fix">
 <div class="ff-grid-6">
@@ -10181,7 +10181,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on VIP Business Pro (https://fireflythemes.com/demo/vip-corporate)
+This e-mail was sent from a contact form on VIP Business Pro (https://demo.fireflythemes.com/vip-corporate)
 Reply-To: [your-email]
 
 
@@ -10194,7 +10194,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on VIP Business Pro (https://fireflythemes.com/demo/vip-corporate)
+This e-mail was sent from a contact form on VIP Business Pro (https://demo.fireflythemes.com/vip-corporate)
 Reply-To: info@example.com
 
 
@@ -10265,7 +10265,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on VIP Business Pro (https://fireflythemes.com/demo/vip-corporate)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on VIP Business Pro (https://demo.fireflythemes.com/vip-corporate)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -10273,7 +10273,7 @@ This e-mail was sent from a contact form on VIP Business Pro (https://fireflythe
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on VIP Business Pro (https://fireflythemes.com/demo/vip-corporate)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on VIP Business Pro (https://demo.fireflythemes.com/vip-corporate)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -10290,10 +10290,10 @@ This e-mail was sent from a contact form on VIP Business Pro (https://fireflythe
 							</item>
 					<item>
 		<title>Contract Form</title>
-		<link>https://fireflythemes.com/demo/vip-corporate/?post_type=wpcf7_contact_form&#038;p=646</link>
+		<link>https://demo.fireflythemes.com/vip-corporate/?post_type=wpcf7_contact_form&#038;p=646</link>
 		<pubDate>Fri, 29 May 2020 15:07:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/vip-corporate/?post_type=wpcf7_contact_form&#038;p=646</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/vip-corporate/?post_type=wpcf7_contact_form&#038;p=646</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label> Your Name (required)
     [text* your-name] </label>
@@ -10319,7 +10319,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on FF Multipurpose Pro (https://fireflythemes.com/demo/vip-corporate)
+This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/vip-corporate)
 Reply-To: [your-email]
 
 
@@ -10332,7 +10332,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on FF Multipurpose Pro (https://fireflythemes.com/demo/vip-corporate)
+This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/vip-corporate)
 Reply-To: info@example.com
 
 
@@ -10397,7 +10397,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on FF Multipurpose Pro (https://fireflythemes.com/demo/vip-corporate)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/vip-corporate)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -10405,7 +10405,7 @@ This e-mail was sent from a contact form on FF Multipurpose Pro (https://firefly
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on FF Multipurpose Pro (https://fireflythemes.com/demo/vip-corporate)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/vip-corporate)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>

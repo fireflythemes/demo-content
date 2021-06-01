@@ -27,13 +27,13 @@
 
 <channel>
 	<title>V. B. Music</title>
-	<link>https://fireflythemes.com/demo/versatile-business-music</link>
+	<link>https://demo.fireflythemes.com/versatile-business-music</link>
 	<description>Multipurpose WP Theme</description>
 	<pubDate>Mon, 11 May 2020 03:17:28 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://fireflythemes.com/demo/</wp:base_site_url>
-	<wp:base_blog_url>https://fireflythemes.com/demo/versatile-business-music</wp:base_blog_url>
+	<wp:base_site_url>http://demo.fireflythemes.com/</wp:base_site_url>
+	<wp:base_blog_url>https://demo.fireflythemes.com/versatile-business-music</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fireflythemes]]></wp:author_login><wp:author_email><![CDATA[info@fireflythemes.com]]></wp:author_email><wp:author_display_name><![CDATA[fireflythemes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[shopmanager]]></wp:author_login><wp:author_email><![CDATA[info@woocommerce.com]]></wp:author_email><wp:author_display_name><![CDATA[Shop Manager]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -309,10 +309,10 @@
 
 		<item>
 		<title>vneck-tee-2.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=31</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=31</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:56 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/vneck-tee-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/vneck-tee-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -328,7 +328,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/vneck-tee-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/vneck-tee-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vneck-tee-2.jpg]]></wp:meta_value>
@@ -344,10 +344,10 @@
 							</item>
 					<item>
 		<title>vnech-tee-blue-1.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=33</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=33</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:58 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/vnech-tee-blue-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/vnech-tee-blue-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -363,7 +363,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/vnech-tee-blue-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/vnech-tee-blue-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vnech-tee-blue-1.jpg]]></wp:meta_value>
@@ -379,10 +379,10 @@
 							</item>
 					<item>
 		<title>hoodie-2.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=34</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=34</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:58 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -398,7 +398,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/hoodie-2.jpg]]></wp:meta_value>
@@ -414,10 +414,10 @@
 							</item>
 					<item>
 		<title>hoodie-with-logo-2.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=37</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=37</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:01 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-with-logo-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-with-logo-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -433,7 +433,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-with-logo-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-with-logo-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/hoodie-with-logo-2.jpg]]></wp:meta_value>
@@ -449,10 +449,10 @@
 							</item>
 					<item>
 		<title>tshirt-2.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=38</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=38</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:02 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/tshirt-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/tshirt-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -468,7 +468,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/tshirt-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/tshirt-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/tshirt-2.jpg]]></wp:meta_value>
@@ -484,10 +484,10 @@
 							</item>
 					<item>
 		<title>vnech-tee-green-1.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=228</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=228</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:57 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/vnech-tee-green-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/vnech-tee-green-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -503,7 +503,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/vnech-tee-green-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/vnech-tee-green-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vnech-tee-green-1.jpg]]></wp:meta_value>
@@ -519,10 +519,10 @@
 							</item>
 					<item>
 		<title>hoodie-blue-1.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=229</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=229</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:59 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-blue-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-blue-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -538,7 +538,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-blue-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-blue-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/hoodie-blue-1.jpg]]></wp:meta_value>
@@ -554,10 +554,10 @@
 							</item>
 					<item>
 		<title>hoodie-green-1.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=230</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=230</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:00 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-green-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-green-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -573,7 +573,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-green-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-green-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/hoodie-green-1.jpg]]></wp:meta_value>
@@ -589,10 +589,10 @@
 							</item>
 					<item>
 		<title>beanie-2.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=231</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=231</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:02 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/beanie-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/beanie-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -608,7 +608,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/beanie-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/beanie-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/beanie-2.jpg]]></wp:meta_value>
@@ -624,10 +624,10 @@
 							</item>
 					<item>
 		<title>belt-2.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=232</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=232</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:03 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/belt-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/belt-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -643,7 +643,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/belt-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/belt-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/belt-2.jpg]]></wp:meta_value>
@@ -659,10 +659,10 @@
 							</item>
 					<item>
 		<title>cap-2.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=233</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=233</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:04 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/cap-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/cap-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -678,7 +678,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/cap-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/cap-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/cap-2.jpg]]></wp:meta_value>
@@ -694,10 +694,10 @@
 							</item>
 					<item>
 		<title>sunglasses-2.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=234</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=234</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:05 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/sunglasses-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/sunglasses-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -713,7 +713,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/sunglasses-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/sunglasses-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/sunglasses-2.jpg]]></wp:meta_value>
@@ -729,10 +729,10 @@
 							</item>
 					<item>
 		<title>hoodie-with-pocket-2.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=235</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=235</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:06 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-with-pocket-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-with-pocket-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -748,7 +748,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-with-pocket-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-with-pocket-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/hoodie-with-pocket-2.jpg]]></wp:meta_value>
@@ -764,10 +764,10 @@
 							</item>
 					<item>
 		<title>hoodie-with-zipper-2.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=236</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=236</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:06 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-with-zipper-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-with-zipper-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -783,7 +783,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-with-zipper-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/hoodie-with-zipper-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/hoodie-with-zipper-2.jpg]]></wp:meta_value>
@@ -799,10 +799,10 @@
 							</item>
 					<item>
 		<title>long-sleeve-tee-2.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=237</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=237</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:07 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/long-sleeve-tee-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/long-sleeve-tee-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -818,7 +818,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/long-sleeve-tee-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/long-sleeve-tee-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/long-sleeve-tee-2.jpg]]></wp:meta_value>
@@ -834,10 +834,10 @@
 							</item>
 					<item>
 		<title>polo-2.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=238</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=238</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:08 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/polo-2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/polo-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -853,7 +853,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/polo-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/polo-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/polo-2.jpg]]></wp:meta_value>
@@ -869,10 +869,10 @@
 							</item>
 					<item>
 		<title>album-1.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=239</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=239</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:09 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/album-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/album-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -888,7 +888,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/album-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/album-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/album-1.jpg]]></wp:meta_value>
@@ -904,10 +904,10 @@
 							</item>
 					<item>
 		<title>single-1.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=240</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=240</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:10 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/single-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/single-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -923,7 +923,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/single-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/single-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/single-1.jpg]]></wp:meta_value>
@@ -939,10 +939,10 @@
 							</item>
 					<item>
 		<title>t-shirt-with-logo-1.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=241</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=241</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:11 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/t-shirt-with-logo-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/t-shirt-with-logo-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -958,7 +958,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/t-shirt-with-logo-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/t-shirt-with-logo-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/t-shirt-with-logo-1.jpg]]></wp:meta_value>
@@ -974,10 +974,10 @@
 							</item>
 					<item>
 		<title>beanie-with-logo-1.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=242</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=242</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/beanie-with-logo-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/beanie-with-logo-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -993,7 +993,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/beanie-with-logo-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/beanie-with-logo-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/beanie-with-logo-1.jpg]]></wp:meta_value>
@@ -1009,10 +1009,10 @@
 							</item>
 					<item>
 		<title>pennant-1.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=52</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=52</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:13 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/pennant-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/pennant-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1028,7 +1028,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/pennant-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/pennant-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/pennant-1.jpg]]></wp:meta_value>
@@ -1044,10 +1044,10 @@
 							</item>
 					<item>
 		<title>client-new-3</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/client-new-3/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/client-new-3/</link>
 		<pubDate>Tue, 17 Mar 2020 07:26:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/client-new-3.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/client-new-3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1063,7 +1063,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/client-new-3.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/client-new-3.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/client-new-3.png]]></wp:meta_value>
@@ -1075,10 +1075,10 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/woocommerce-placeholder/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/woocommerce-placeholder/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:08 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/woocommerce-placeholder.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/woocommerce-placeholder.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1094,7 +1094,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
@@ -1106,10 +1106,10 @@
 							</item>
 					<item>
 		<title>logo-1.jpg</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?attachment_id=247</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?attachment_id=247</link>
 		<pubDate>Wed, 16 Jan 2019 13:02:13 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/logo-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/logo-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1125,7 +1125,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2019/01/logo-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2019/01/logo-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/logo-1.jpg]]></wp:meta_value>
@@ -1141,10 +1141,10 @@
 							</item>
 					<item>
 		<title>banner1</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/banner1/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/banner1/</link>
 		<pubDate>Sat, 02 May 2020 11:52:06 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1160,7 +1160,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/banner1.jpg]]></wp:meta_value>
@@ -1172,10 +1172,10 @@
 							</item>
 					<item>
 		<title>banner2</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/banner2/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/banner2/</link>
 		<pubDate>Sat, 02 May 2020 11:52:10 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1191,7 +1191,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/banner2.jpg]]></wp:meta_value>
@@ -1203,10 +1203,10 @@
 							</item>
 					<item>
 		<title>banner3</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/banner3/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/banner3/</link>
 		<pubDate>Sat, 02 May 2020 11:52:12 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1222,7 +1222,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/banner3.jpg]]></wp:meta_value>
@@ -1234,10 +1234,10 @@
 							</item>
 					<item>
 		<title>banner4</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/banner4/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/banner4/</link>
 		<pubDate>Sat, 02 May 2020 11:52:15 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner4.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1253,7 +1253,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/banner4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
 		<wp:meta_value><![CDATA[versatile-business-pro]]></wp:meta_value>
@@ -1273,10 +1273,10 @@
 							</item>
 					<item>
 		<title>featured</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/featured/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/featured/</link>
 		<pubDate>Sat, 02 May 2020 11:57:32 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/featured.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/featured.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1292,7 +1292,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/featured.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/featured.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/featured.jpg]]></wp:meta_value>
@@ -1304,10 +1304,10 @@
 							</item>
 					<item>
 		<title>team1</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/team1/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/team1/</link>
 		<pubDate>Sat, 02 May 2020 12:20:05 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/team1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/team1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1323,7 +1323,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/team1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/team1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/team1.jpg]]></wp:meta_value>
@@ -1335,10 +1335,10 @@
 							</item>
 					<item>
 		<title>team2</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/team2/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/team2/</link>
 		<pubDate>Sat, 02 May 2020 12:20:08 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/team2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/team2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1354,7 +1354,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/team2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/team2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/team2.jpg]]></wp:meta_value>
@@ -1366,10 +1366,10 @@
 							</item>
 					<item>
 		<title>team3</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/team3/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/team3/</link>
 		<pubDate>Sat, 02 May 2020 12:20:10 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/team3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/team3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1385,7 +1385,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/team3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/team3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/team3.jpg]]></wp:meta_value>
@@ -1397,10 +1397,10 @@
 							</item>
 					<item>
 		<title>post1</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/27/5-things-that-every-startup-needs-to-do-to-succeed-2/post1-2/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/27/5-things-that-every-startup-needs-to-do-to-succeed-2/post1-2/</link>
 		<pubDate>Sat, 02 May 2020 12:27:51 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post1-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post1-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1416,7 +1416,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post1-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post1-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/post1-1.jpg]]></wp:meta_value>
@@ -1428,10 +1428,10 @@
 							</item>
 					<item>
 		<title>post2</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/27/a-fully-visual-way-to-build-websites-using-wordpress-2/post2/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/27/a-fully-visual-way-to-build-websites-using-wordpress-2/post2/</link>
 		<pubDate>Sat, 02 May 2020 12:30:08 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post2.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1447,7 +1447,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/post2.jpg]]></wp:meta_value>
@@ -1459,10 +1459,10 @@
 							</item>
 					<item>
 		<title>post3</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/5-things-that-every-startup-needs-to-do-to-succeed/post3/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/5-things-that-every-startup-needs-to-do-to-succeed/post3/</link>
 		<pubDate>Sat, 02 May 2020 12:31:09 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post3.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1478,7 +1478,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/post3.jpg]]></wp:meta_value>
@@ -1490,10 +1490,10 @@
 							</item>
 					<item>
 		<title>post4</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post4-2/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post4-2/</link>
 		<pubDate>Sat, 02 May 2020 12:32:09 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post4-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post4-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1509,7 +1509,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post4-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post4-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/post4-1.jpg]]></wp:meta_value>
@@ -1521,10 +1521,10 @@
 							</item>
 					<item>
 		<title>post10</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/great-things-in-business-are-never-done-by-one-person/post10/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/great-things-in-business-are-never-done-by-one-person/post10/</link>
 		<pubDate>Sat, 02 May 2020 12:33:12 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post10.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post10.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1540,7 +1540,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post10.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post10.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/post10.jpg]]></wp:meta_value>
@@ -1552,10 +1552,10 @@
 							</item>
 					<item>
 		<title>post7</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/5-things-ive-learnt-about-money-as-a-freelancer/post7/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/5-things-ive-learnt-about-money-as-a-freelancer/post7/</link>
 		<pubDate>Sat, 02 May 2020 12:39:29 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post7.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post7.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1571,7 +1571,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post7.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post7.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/03/post7.jpg]]></wp:meta_value>
@@ -1583,10 +1583,10 @@
 							</item>
 					<item>
 		<title>logo</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/logo-2/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/logo-2/</link>
 		<pubDate>Sat, 02 May 2020 12:42:46 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1602,7 +1602,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/logo.png]]></wp:meta_value>
@@ -1614,10 +1614,10 @@
 							</item>
 					<item>
 		<title>icon1</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/icon1-2/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/icon1-2/</link>
 		<pubDate>Sat, 02 May 2020 12:58:40 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/icon1-1.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/icon1-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1633,7 +1633,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/icon1-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/icon1-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/icon1-1.png]]></wp:meta_value>
@@ -1645,10 +1645,10 @@
 							</item>
 					<item>
 		<title>Home</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/home/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/home/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/2020/03/16/home/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/2020/03/16/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1695,15 +1695,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://fireflythemes.com/demo/versatile-business-music]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demo.fireflythemes.com/versatile-business-music]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/18/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/18/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/2020/03/16/18/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/2020/03/16/18/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1755,10 +1755,10 @@
 							</item>
 					<item>
 		<title>Newsletter</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/mc4wp-form/newsletter/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/mc4wp-form/newsletter/</link>
 		<pubDate>Fri, 27 Mar 2020 13:56:08 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/mc4wp-form/newsletter/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/mc4wp-form/newsletter/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>
 	<label>Email address: 
@@ -1826,10 +1826,10 @@
 							</item>
 					<item>
 		<title>versatile-business-pro</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/01/versatile-business-pro/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/01/versatile-business-pro/</link>
 		<pubDate>Fri, 01 May 2020 12:00:12 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/2020/05/01/versatile-business-pro/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/2020/05/01/versatile-business-pro/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1848,10 +1848,10 @@
 														</item>
 					<item>
 		<title>icon2</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/icon2-2/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/icon2-2/</link>
 		<pubDate>Sat, 02 May 2020 12:58:41 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/icon2-1.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/icon2-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1867,7 +1867,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/icon2-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/icon2-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/icon2-1.png]]></wp:meta_value>
@@ -1879,10 +1879,10 @@
 							</item>
 					<item>
 		<title>icon3</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/icon3-2/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/icon3-2/</link>
 		<pubDate>Sat, 02 May 2020 12:58:42 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/icon3-1.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/icon3-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1898,7 +1898,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/icon3-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/icon3-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/icon3-1.png]]></wp:meta_value>
@@ -1910,10 +1910,10 @@
 							</item>
 					<item>
 		<title>album-01</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/02/upbeating/album-01/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/02/upbeating/album-01/</link>
 		<pubDate>Sat, 02 May 2020 14:52:42 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-01.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-01.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1929,7 +1929,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/album-01.jpg]]></wp:meta_value>
@@ -1941,10 +1941,10 @@
 							</item>
 					<item>
 		<title>album-04</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/02/sport-big-beat/album-04/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/02/sport-big-beat/album-04/</link>
 		<pubDate>Sat, 02 May 2020 14:57:04 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-04.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-04.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1960,7 +1960,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/album-04.jpg]]></wp:meta_value>
@@ -1972,10 +1972,10 @@
 							</item>
 					<item>
 		<title>album-05</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/02/epic-uplifting/album-05/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/02/epic-uplifting/album-05/</link>
 		<pubDate>Sat, 02 May 2020 15:03:22 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-05.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-05.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1991,7 +1991,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-05.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-05.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/album-05.jpg]]></wp:meta_value>
@@ -2003,10 +2003,10 @@
 							</item>
 					<item>
 		<title>album-06</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/02/quirky-upbeat-retro/album-06/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/02/quirky-upbeat-retro/album-06/</link>
 		<pubDate>Sat, 02 May 2020 15:04:00 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-06.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-06.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2022,7 +2022,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-06.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-06.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/album-06.jpg]]></wp:meta_value>
@@ -2034,10 +2034,10 @@
 							</item>
 					<item>
 		<title>album-03</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/02/acoustic-indie-folk/album-03/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/02/acoustic-indie-folk/album-03/</link>
 		<pubDate>Sat, 02 May 2020 15:05:08 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-03.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-03.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2053,7 +2053,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/album-03.jpg]]></wp:meta_value>
@@ -2065,10 +2065,10 @@
 							</item>
 					<item>
 		<title>album-02</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/02/pop-summer/album-02/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/02/pop-summer/album-02/</link>
 		<pubDate>Sat, 02 May 2020 15:06:55 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-02.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-02.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2084,7 +2084,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:700;s:6:"height";i:700;s:4:"file";s:20:"2020/05/album-02.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:20:"album-02-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:20:"album-02-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:20:"album-02-620x620.jpg";s:5:"width";i:620;s:6:"height";i:620;s:9:"mime-type";s:10:"image/jpeg";}s:23:"versatile-business-hero";a:4:{s:4:"file";s:20:"album-02-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:28:"versatile-business-portfolio";a:4:{s:4:"file";s:20:"album-02-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:20:"album-02-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:20:"album-02-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:20:"album-02-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:20:"album-02-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:20:"album-02-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:20:"album-02-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -2096,10 +2096,10 @@
 							</item>
 					<item>
 		<title>logo</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/logo/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/logo/</link>
 		<pubDate>Sat, 02 May 2020 15:09:24 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-1.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2115,7 +2115,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/logo-1.png]]></wp:meta_value>
@@ -2127,10 +2127,10 @@
 							</item>
 					<item>
 		<title>logo</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/logo-3/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/logo-3/</link>
 		<pubDate>Sat, 02 May 2020 15:13:40 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-2.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2146,7 +2146,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-2.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/logo-2.png]]></wp:meta_value>
@@ -2158,10 +2158,10 @@
 							</item>
 					<item>
 		<title>logo</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/logo-4/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/logo-4/</link>
 		<pubDate>Sat, 02 May 2020 15:23:01 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-3.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2177,7 +2177,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-3.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-3.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/logo-3.png]]></wp:meta_value>
@@ -2189,10 +2189,10 @@
 							</item>
 					<item>
 		<title>logo</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/logo-5/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/logo-5/</link>
 		<pubDate>Sat, 02 May 2020 15:25:11 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-4.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2208,7 +2208,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-4.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/logo-4.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/logo-4.png]]></wp:meta_value>
@@ -2220,10 +2220,10 @@
 							</item>
 					<item>
 		<title>about_thumb</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/about_thumb/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/about_thumb/</link>
 		<pubDate>Sun, 03 May 2020 04:25:12 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/about_thumb.png</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/about_thumb.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2239,7 +2239,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/about_thumb.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/about_thumb.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:531;s:6:"height";i:576;s:4:"file";s:23:"2020/05/about_thumb.png";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:23:"about_thumb-277x300.png";s:5:"width";i:277;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:23:"about_thumb-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:28:"versatile-business-portfolio";a:4:{s:4:"file";s:23:"about_thumb-400x434.png";s:5:"width";i:400;s:6:"height";i:434;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:23:"about_thumb-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:23:"about_thumb-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:23:"about_thumb-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:23:"about_thumb-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -2251,10 +2251,10 @@
 							</item>
 					<item>
 		<title>team001</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/team001/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/team001/</link>
 		<pubDate>Sun, 03 May 2020 04:40:16 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/team001.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/team001.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2270,7 +2270,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/team001.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/team001.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:369;s:6:"height";i:491;s:4:"file";s:19:"2020/05/team001.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:19:"team001-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:19:"team001-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:28:"versatile-business-portfolio";a:4:{s:4:"file";s:19:"team001-338x450.jpg";s:5:"width";i:338;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:19:"team001-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:19:"team001-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:19:"team001-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:19:"team001-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -2282,10 +2282,10 @@
 							</item>
 					<item>
 		<title>team002</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/team002/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/team002/</link>
 		<pubDate>Sun, 03 May 2020 04:40:21 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/team002.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/team002.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2301,7 +2301,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/team002.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/team002.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/team002.jpg]]></wp:meta_value>
@@ -2313,10 +2313,10 @@
 							</item>
 					<item>
 		<title>team003</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/team003/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/team003/</link>
 		<pubDate>Sun, 03 May 2020 04:43:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/team003.jpg</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/team003.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2332,7 +2332,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/team003.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/team003.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/team003.jpg]]></wp:meta_value>
@@ -2344,10 +2344,10 @@
 							</item>
 					<item>
 		<title>Home</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/</link>
 		<pubDate>Mon, 16 Mar 2020 06:55:26 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?page_id=5</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?page_id=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2378,10 +2378,10 @@
 							</item>
 					<item>
 		<title>About Us</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/about-us/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/about-us/</link>
 		<pubDate>Mon, 16 Mar 2020 06:55:45 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?page_id=7</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?page_id=7</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -2392,7 +2392,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:gallery {"ids":[492,490,488,486,478,495]} -->
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-03.jpg" alt="" data-id="492" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-03.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/05/02/acoustic-indie-folk/album-03/" class="wp-image-492"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-06.jpg" alt="" data-id="490" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-06.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/05/02/quirky-upbeat-retro/album-06/" class="wp-image-490"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-05.jpg" alt="" data-id="488" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-05.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/05/02/epic-uplifting/album-05/" class="wp-image-488"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-04.jpg" alt="" data-id="486" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-04.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/05/02/sport-big-beat/album-04/" class="wp-image-486"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-01.jpg" alt="" data-id="478" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-01.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/05/02/upbeating/album-01/" class="wp-image-478"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-02.jpg" alt="" data-id="495" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-02.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/05/02/pop-summer/album-02/" class="wp-image-495"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-03.jpg" alt="" data-id="492" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-03.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/05/02/acoustic-indie-folk/album-03/" class="wp-image-492"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-06.jpg" alt="" data-id="490" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-06.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/05/02/quirky-upbeat-retro/album-06/" class="wp-image-490"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-05.jpg" alt="" data-id="488" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-05.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/05/02/epic-uplifting/album-05/" class="wp-image-488"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-04.jpg" alt="" data-id="486" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-04.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/05/02/sport-big-beat/album-04/" class="wp-image-486"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-01.jpg" alt="" data-id="478" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-01.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/05/02/upbeating/album-01/" class="wp-image-478"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-02.jpg" alt="" data-id="495" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/05/album-02.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/05/02/pop-summer/album-02/" class="wp-image-495"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
@@ -2446,10 +2446,10 @@
 							</item>
 					<item>
 		<title>Contact Us</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/contact-us/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/contact-us/</link>
 		<pubDate>Mon, 16 Mar 2020 06:55:54 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?page_id=8</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?page_id=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading {"level":3} -->
 <h3>Contact Us</h3>
@@ -2510,10 +2510,10 @@
 							</item>
 					<item>
 		<title>Services</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/services/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/services/</link>
 		<pubDate>Mon, 16 Mar 2020 06:56:03 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?page_id=9</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?page_id=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br><br></p>
@@ -2566,10 +2566,10 @@
 							</item>
 					<item>
 		<title>Blog</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/blog/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/blog/</link>
 		<pubDate>Mon, 16 Mar 2020 06:56:17 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?page_id=10</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?page_id=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2600,10 +2600,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/19/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/19/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/2020/03/16/19/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/2020/03/16/19/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2655,10 +2655,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/20/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/20/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/2020/03/16/20/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/2020/03/16/20/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2710,10 +2710,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/21/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/21/</link>
 		<pubDate>Mon, 16 Mar 2020 07:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/2020/03/16/21/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/2020/03/16/21/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2765,10 +2765,10 @@
 							</item>
 					<item>
 		<title>facebook</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/facebook/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/facebook/</link>
 		<pubDate>Mon, 16 Mar 2020 07:23:30 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/2020/03/16/facebook/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/2020/03/16/facebook/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2820,10 +2820,10 @@
 							</item>
 					<item>
 		<title>Twitter</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/twitter/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/twitter/</link>
 		<pubDate>Mon, 16 Mar 2020 07:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/2020/03/16/twitter/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/2020/03/16/twitter/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2875,10 +2875,10 @@
 							</item>
 					<item>
 		<title>Instagram</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/instagram/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/instagram/</link>
 		<pubDate>Mon, 16 Mar 2020 07:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/2020/03/16/instagram/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/2020/03/16/instagram/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2930,10 +2930,10 @@
 							</item>
 					<item>
 		<title>Youtube</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/youtube/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/youtube/</link>
 		<pubDate>Mon, 16 Mar 2020 07:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/2020/03/16/youtube/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/2020/03/16/youtube/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2985,10 +2985,10 @@
 							</item>
 					<item>
 		<title>Shop</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/shop/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/shop/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/shop/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/shop/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3019,10 +3019,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/27/243/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/27/243/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=243</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=243</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3074,10 +3074,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/27/244/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/27/244/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=244</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=244</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3129,10 +3129,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/27/245/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/27/245/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=245</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=245</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3184,10 +3184,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/27/246/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/27/246/</link>
 		<pubDate>Fri, 27 Mar 2020 10:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=246</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=246</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3239,10 +3239,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/01/366/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/01/366/</link>
 		<pubDate>Fri, 01 May 2020 14:30:35 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=366</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=366</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3294,10 +3294,10 @@
 							</item>
 					<item>
 		<title>Pages</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/01/pages/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/01/pages/</link>
 		<pubDate>Fri, 01 May 2020 14:31:16 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=367</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=367</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3349,10 +3349,10 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/02/510/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/02/510/</link>
 		<pubDate>Sat, 02 May 2020 15:27:17 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=510</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=510</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3404,7 +3404,7 @@
 							</item>
 					<item>
 		<title>Belt</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/belt/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/belt/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/belt/</guid>
@@ -3568,10 +3568,10 @@
 							</item>
 					<item>
 		<title>Recording Vocals!</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/</link>
 		<pubDate>Mon, 16 Mar 2020 15:15:27 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=68</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=68</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -3625,10 +3625,10 @@
 							</item>
 					<item>
 		<title>New Album is in the Works!</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/5-things-that-every-startup-needs-to-do-to-succeed/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/5-things-that-every-startup-needs-to-do-to-succeed/</link>
 		<pubDate>Mon, 16 Mar 2020 15:15:13 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=69</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=69</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -3682,10 +3682,10 @@
 							</item>
 					<item>
 		<title>Ten Great Rockumentaries</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/great-things-in-business-are-never-done-by-one-person/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/great-things-in-business-are-never-done-by-one-person/</link>
 		<pubDate>Mon, 16 Mar 2020 15:15:05 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=70</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=70</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -3739,10 +3739,10 @@
 							</item>
 					<item>
 		<title>The Best Concert 2020</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/16/5-things-ive-learnt-about-money-as-a-freelancer/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/16/5-things-ive-learnt-about-money-as-a-freelancer/</link>
 		<pubDate>Mon, 16 Mar 2020 15:14:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=71</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=71</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.</p>
@@ -3796,10 +3796,10 @@
 							</item>
 					<item>
 		<title>Interview with Josh Bond</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/27/a-fully-visual-way-to-build-websites-using-wordpress-2/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/27/a-fully-visual-way-to-build-websites-using-wordpress-2/</link>
 		<pubDate>Fri, 27 Mar 2020 09:54:04 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=191</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=191</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br></p>
@@ -3841,10 +3841,10 @@
 							</item>
 					<item>
 		<title>Non-stop party in Berlin</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/03/27/5-things-that-every-startup-needs-to-do-to-succeed-2/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/03/27/5-things-that-every-startup-needs-to-do-to-succeed-2/</link>
 		<pubDate>Fri, 27 Mar 2020 09:54:43 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=192</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=192</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat erat. Integer hendrerit orci eu maximus malesuada. Donec finibus vulputate mauris sed auctor. Donec at pretium ipsum. Curabitur porttitor purus in nunc viverra, in blandit felis commodo. Vivamus porta arcu quis turpis elementum consectetur.<br></p>
@@ -3886,10 +3886,10 @@
 							</item>
 					<item>
 		<title>Cart</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/cart/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/cart/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/cart/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/cart/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3908,10 +3908,10 @@
 														</item>
 					<item>
 		<title>Checkout</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/checkout/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/checkout/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/checkout/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/checkout/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_checkout]<!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3930,10 +3930,10 @@
 														</item>
 					<item>
 		<title>My account</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/my-account/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/my-account/</link>
 		<pubDate>Fri, 27 Mar 2020 09:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/my-account/</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/my-account/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3952,7 +3952,7 @@
 														</item>
 					<item>
 		<title>V-Neck T-Shirt</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/v-neck-t-shirt/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/v-neck-t-shirt/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/v-neck-t-shirt/</guid>
@@ -4127,7 +4127,7 @@
 							</item>
 					<item>
 		<title>Hoodie</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/hoodie/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/hoodie/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie/</guid>
@@ -4298,10 +4298,10 @@
 							</item>
 					<item>
 		<title>Typography</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/356-2/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/356-2/</link>
 		<pubDate>Fri, 01 May 2020 14:17:00 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?page_id=356</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?page_id=356</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
 <h2>H1 Heading</h2>
@@ -4356,7 +4356,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:gallery {"ids":[63,62,61,82,83,84]} -->
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/project3.jpg" alt="" data-id="63" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/project3.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/project3/" class="wp-image-63"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/project2.jpg" alt="" data-id="62" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/project2.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/project2/" class="wp-image-62"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/project1.jpg" alt="" data-id="61" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/project1.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/project1/" class="wp-image-61"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post-1-1024x740.jpg" alt="" data-id="82" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post-1.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-1/" class="wp-image-82"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post-2-1024x740.jpg" alt="" data-id="83" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post-2.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-2/" class="wp-image-83"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post4.jpg" alt="" data-id="84" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post4.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post4/" class="wp-image-84"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/project3.jpg" alt="" data-id="63" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/project3.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/project3/" class="wp-image-63"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/project2.jpg" alt="" data-id="62" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/project2.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/project2/" class="wp-image-62"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/project1.jpg" alt="" data-id="61" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/project1.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/project1/" class="wp-image-61"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post-1-1024x740.jpg" alt="" data-id="82" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post-1.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-1/" class="wp-image-82"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post-2-1024x740.jpg" alt="" data-id="83" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post-2.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post-2/" class="wp-image-83"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post4.jpg" alt="" data-id="84" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post4.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post4/" class="wp-image-84"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:heading -->
@@ -4601,7 +4601,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:image {"id":331,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/04/08-min-1024x427.jpg" alt="" class="wp-image-331"/></figure>
+<figure class="wp-block-image size-large"><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/04/08-min-1024x427.jpg" alt="" class="wp-image-331"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -4617,7 +4617,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":86,"width":400,"height":300,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post5.jpg" alt="" class="wp-image-86" width="400" height="300"/></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post5.jpg" alt="" class="wp-image-86" width="400" height="300"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -4633,7 +4633,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":62,"width":419,"height":447,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/project2.jpg" alt="" class="wp-image-62" width="419" height="447"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/project2.jpg" alt="" class="wp-image-62" width="419" height="447"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -4657,7 +4657,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":331,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/04/08-min-1024x427.jpg" alt="" class="wp-image-331"/></figure>
+<figure class="wp-block-image size-large"><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/04/08-min-1024x427.jpg" alt="" class="wp-image-331"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -4691,10 +4691,10 @@
 							</item>
 					<item>
 		<title>Upbeating</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/02/upbeating/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/02/upbeating/</link>
 		<pubDate>Sat, 02 May 2020 14:52:51 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=477</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=477</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Aenean sed est ultricies, interdum urna ut, sollicitudin ipsum. Mauris ut turpis tincidunt, hendrerit nibh vel, consequat sapien. Praesent quis lorem non risus fringilla pellentesque. Praesent pulvinar magna est, at fermentum nibh gravida sit amet.Aenean sed est ultricies, interdum urna ut, sollicitudin ipsum. Mauris ut turpis tincidunt, hendrerit nibh vel, consequat sapien. Praesent quis lorem non risus fringilla pellentesque. Praesent pulvinar magna est, at fermentum nibh gravida sit amet.Aenean sed...</p>
@@ -4736,10 +4736,10 @@
 							</item>
 					<item>
 		<title>Sport Big Beat</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/02/sport-big-beat/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/02/sport-big-beat/</link>
 		<pubDate>Sat, 02 May 2020 14:57:11 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=482</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=482</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Aenean sed est ultricies, interdum urna ut, sollicitudin ipsum. Mauris ut turpis tincidunt, hendrerit nibh vel, consequat sapien. Praesent quis lorem non risus fringilla pellentesque. Praesent pulvinar magna est, at fermentum nibh gravida sit amet.Aenean sed est ultricies, interdum urna ut, sollicitudin ipsum. Mauris ut turpis tincidunt, hendrerit nibh vel, consequat sapien. Praesent quis lorem non risus fringilla pellentesque. Praesent pulvinar magna est, at fermentum nibh gravida sit amet.Aenean sed...</p>
@@ -4781,10 +4781,10 @@
 							</item>
 					<item>
 		<title>Epic Uplifting</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/02/epic-uplifting/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/02/epic-uplifting/</link>
 		<pubDate>Sat, 02 May 2020 15:03:28 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=483</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=483</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Aenean sed est ultricies, interdum urna ut, sollicitudin ipsum. Mauris ut turpis tincidunt, hendrerit nibh vel, consequat sapien. Praesent quis lorem non risus fringilla pellentesque. Praesent pulvinar magna est, at fermentum nibh gravida sit amet.Aenean sed est ultricies, interdum urna ut, sollicitudin ipsum. Mauris ut turpis tincidunt, hendrerit nibh vel, consequat sapien. Praesent quis lorem non risus fringilla pellentesque. Praesent pulvinar magna est, at fermentum nibh gravida sit amet.Aenean sed...</p>
@@ -4826,10 +4826,10 @@
 							</item>
 					<item>
 		<title>Quirky Upbeat Retro</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/02/quirky-upbeat-retro/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/02/quirky-upbeat-retro/</link>
 		<pubDate>Sat, 02 May 2020 15:04:07 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=484</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=484</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Aenean sed est ultricies, interdum urna ut, sollicitudin ipsum. Mauris ut turpis tincidunt, hendrerit nibh vel, consequat sapien. Praesent quis lorem non risus fringilla pellentesque. Praesent pulvinar magna est, at fermentum nibh gravida sit amet.Aenean sed est ultricies, interdum urna ut, sollicitudin ipsum. Mauris ut turpis tincidunt, hendrerit nibh vel, consequat sapien. Praesent quis lorem non risus fringilla pellentesque. Praesent pulvinar magna est, at fermentum nibh gravida sit amet.Aenean sed...</p>
@@ -4879,10 +4879,10 @@
 							</item>
 					<item>
 		<title>Acoustic Indie Folk</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/02/acoustic-indie-folk/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/02/acoustic-indie-folk/</link>
 		<pubDate>Sat, 02 May 2020 15:05:22 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=485</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=485</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Aenean sed est ultricies, interdum urna ut, sollicitudin ipsum. Mauris ut turpis tincidunt, hendrerit nibh vel, consequat sapien. Praesent quis lorem non risus fringilla pellentesque. Praesent pulvinar magna est, at fermentum nibh gravida sit amet.Aenean sed est ultricies, interdum urna ut, sollicitudin ipsum. Mauris ut turpis tincidunt, hendrerit nibh vel, consequat sapien. Praesent quis lorem non risus fringilla pellentesque. Praesent pulvinar magna est, at fermentum nibh gravida sit amet.Aenean sed...</p>
@@ -4924,10 +4924,10 @@
 							</item>
 					<item>
 		<title>Pop Summer</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/2020/05/02/pop-summer/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/2020/05/02/pop-summer/</link>
 		<pubDate>Sat, 02 May 2020 15:07:18 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?p=494</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?p=494</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Aenean sed est ultricies, interdum urna ut, sollicitudin ipsum. Mauris ut turpis tincidunt, hendrerit nibh vel, consequat sapien. Praesent quis lorem non risus fringilla pellentesque. Praesent pulvinar magna est, at fermentum nibh gravida sit amet.Aenean sed est ultricies, interdum urna ut, sollicitudin ipsum. Mauris ut turpis tincidunt, hendrerit nibh vel, consequat sapien. Praesent quis lorem non risus fringilla pellentesque. Praesent pulvinar magna est, at fermentum nibh gravida sit amet.Aenean sed...</p>
@@ -4969,10 +4969,10 @@
 							</item>
 					<item>
 		<title>Gallery</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/gallery/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/gallery/</link>
 		<pubDate>Sat, 02 May 2020 15:19:41 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?page_id=503</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?page_id=503</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Aenean sed est ultricies, interdum urna ut, sollicitudin ipsum. Mauris ut turpis tincidunt, hendrerit nibh vel, consequat sapien. Praesent quis lorem non risus fringilla pellentesque. Praesent pulvinar magna est, at fermentum nibh gravida sit amet.Aenean sed est ultricies, interdum urna ut, sollicitudin ipsum. Mauris ut turpis tincidunt, hendrerit nibh vel, consequat sapien. Praesent quis lorem non risus fringilla pellentesque. Praesent pulvinar magna est, at fermentum nibh gravida sit amet.Aenean sed...</p>
@@ -4983,7 +4983,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:gallery {"ids":[452,450,448,444,446,442]} -->
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post7.jpg" alt="" data-id="452" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post7.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/03/16/5-things-ive-learnt-about-money-as-a-freelancer/post7/" class="wp-image-452"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post10.jpg" alt="" data-id="450" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post10.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/03/16/great-things-in-business-are-never-done-by-one-person/post10/" class="wp-image-450"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post4-1.jpg" alt="" data-id="448" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post4-1.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post4-2/" class="wp-image-448"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post2.jpg" alt="" data-id="444" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post2.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/03/27/a-fully-visual-way-to-build-websites-using-wordpress-2/post2/" class="wp-image-444"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post3.jpg" alt="" data-id="446" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post3.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/03/16/5-things-that-every-startup-needs-to-do-to-succeed/post3/" class="wp-image-446"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post1-1.jpg" alt="" data-id="442" data-full-url="https://fireflythemes.com/demo/versatile-business-music/wp-content/uploads/sites/10/2020/03/post1-1.jpg" data-link="https://fireflythemes.com/demo/versatile-business-music/2020/03/27/5-things-that-every-startup-needs-to-do-to-succeed-2/post1-2/" class="wp-image-442"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post7.jpg" alt="" data-id="452" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post7.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/03/16/5-things-ive-learnt-about-money-as-a-freelancer/post7/" class="wp-image-452"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post10.jpg" alt="" data-id="450" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post10.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/03/16/great-things-in-business-are-never-done-by-one-person/post10/" class="wp-image-450"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post4-1.jpg" alt="" data-id="448" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post4-1.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/03/16/a-fully-visual-way-to-build-websites-using-wordpress/post4-2/" class="wp-image-448"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post2.jpg" alt="" data-id="444" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post2.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/03/27/a-fully-visual-way-to-build-websites-using-wordpress-2/post2/" class="wp-image-444"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post3.jpg" alt="" data-id="446" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post3.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/03/16/5-things-that-every-startup-needs-to-do-to-succeed/post3/" class="wp-image-446"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post1-1.jpg" alt="" data-id="442" data-full-url="https://demo.fireflythemes.com/versatile-business-music/wp-content/uploads/sites/10/2020/03/post1-1.jpg" data-link="https://demo.fireflythemes.com/versatile-business-music/2020/03/27/5-things-that-every-startup-needs-to-do-to-succeed-2/post1-2/" class="wp-image-442"/></figure></li></ul></figure>
 <!-- /wp:gallery -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>503</wp:post_id>
@@ -5017,7 +5017,7 @@
 							</item>
 					<item>
 		<title>Hoodie with Logo</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/hoodie-with-logo/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/hoodie-with-logo/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-with-logo/</guid>
@@ -5182,7 +5182,7 @@
 							</item>
 					<item>
 		<title>T-Shirt</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/t-shirt/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/t-shirt/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/t-shirt/</guid>
@@ -5347,7 +5347,7 @@
 							</item>
 					<item>
 		<title>Beanie</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/beanie/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/beanie/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/beanie/</guid>
@@ -5512,7 +5512,7 @@
 							</item>
 					<item>
 		<title>Cap</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/cap/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/cap/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/cap/</guid>
@@ -5678,7 +5678,7 @@
 							</item>
 					<item>
 		<title>Sunglasses</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/sunglasses/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/sunglasses/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/sunglasses/</guid>
@@ -5843,7 +5843,7 @@
 							</item>
 					<item>
 		<title>Hoodie with Pocket</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/hoodie-with-pocket/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/hoodie-with-pocket/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-with-pocket/</guid>
@@ -6011,7 +6011,7 @@
 							</item>
 					<item>
 		<title>Hoodie with Zipper</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/hoodie-with-zipper/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/hoodie-with-zipper/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-with-zipper/</guid>
@@ -6176,7 +6176,7 @@
 							</item>
 					<item>
 		<title>Long Sleeve Tee</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/long-sleeve-tee/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/long-sleeve-tee/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/long-sleeve-tee/</guid>
@@ -6341,7 +6341,7 @@
 							</item>
 					<item>
 		<title>Polo</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/polo/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/polo/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/polo/</guid>
@@ -6506,7 +6506,7 @@
 							</item>
 					<item>
 		<title>Album</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/album/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/album/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/album/</guid>
@@ -6670,7 +6670,7 @@
 							</item>
 					<item>
 		<title>Single</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/single/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/single/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/single/</guid>
@@ -6834,7 +6834,7 @@
 							</item>
 					<item>
 		<title>V-Neck T-Shirt - Red</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/v-neck-t-shirt/?attribute_pa_color=red</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/v-neck-t-shirt/?attribute_pa_color=red</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/v-neck-t-shirt-red/</guid>
@@ -7008,7 +7008,7 @@
 							</item>
 					<item>
 		<title>V-Neck T-Shirt - Green</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/v-neck-t-shirt/?attribute_pa_color=green</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/v-neck-t-shirt/?attribute_pa_color=green</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/v-neck-t-shirt-green/</guid>
@@ -7182,7 +7182,7 @@
 							</item>
 					<item>
 		<title>V-Neck T-Shirt - Blue</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/v-neck-t-shirt/?attribute_pa_color=blue</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/v-neck-t-shirt/?attribute_pa_color=blue</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/v-neck-t-shirt-blue/</guid>
@@ -7364,7 +7364,7 @@
 							</item>
 					<item>
 		<title>Hoodie - Red, No</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/hoodie/?attribute_pa_color=red&#038;attribute_logo=No</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/hoodie/?attribute_pa_color=red&#038;attribute_logo=No</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-red-no</guid>
@@ -7538,7 +7538,7 @@
 							</item>
 					<item>
 		<title>Hoodie - Green, No</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/hoodie/?attribute_pa_color=green&#038;attribute_logo=No</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/hoodie/?attribute_pa_color=green&#038;attribute_logo=No</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-green-no/</guid>
@@ -7712,7 +7712,7 @@
 							</item>
 					<item>
 		<title>T-Shirt with Logo</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/t-shirt-with-logo/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/t-shirt-with-logo/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/t-shirt-with-logo/</guid>
@@ -7877,7 +7877,7 @@
 							</item>
 					<item>
 		<title>Beanie with Logo</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/beanie-with-logo/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/beanie-with-logo/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/beanie-with-logo/</guid>
@@ -8042,7 +8042,7 @@
 							</item>
 					<item>
 		<title>Logo Collection</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/logo-collection/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/logo-collection/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/logo-collection/</guid>
@@ -8206,7 +8206,7 @@
 							</item>
 					<item>
 		<title>WordPress Pennant</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/wordpress-pennant/</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/wordpress-pennant/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/wordpress-pennant/</guid>
@@ -8378,7 +8378,7 @@
 							</item>
 					<item>
 		<title>Hoodie - Blue, No</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/hoodie/?attribute_pa_color=blue&#038;attribute_logo=No</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/hoodie/?attribute_pa_color=blue&#038;attribute_logo=No</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-blue-no</guid>
@@ -8552,7 +8552,7 @@
 							</item>
 					<item>
 		<title>Hoodie - Blue, Yes</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/product/hoodie/?attribute_pa_color=blue&#038;attribute_logo=Yes</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/product/hoodie/?attribute_pa_color=blue&#038;attribute_logo=Yes</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
 		<dc:creator><![CDATA[shopmanager]]></dc:creator>
 		<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/hoodie-blue-yes/</guid>
@@ -8726,10 +8726,10 @@
 							</item>
 					<item>
 		<title>Contact Form</title>
-		<link>https://fireflythemes.com/demo/versatile-business-music/?post_type=wpcf7_contact_form&#038;p=268</link>
+		<link>https://demo.fireflythemes.com/versatile-business-music/?post_type=wpcf7_contact_form&#038;p=268</link>
 		<pubDate>Fri, 27 Mar 2020 14:37:57 +0000</pubDate>
 		<dc:creator><![CDATA[fireflythemes]]></dc:creator>
-		<guid isPermaLink="false">https://fireflythemes.com/demo/versatile-business-music/?post_type=wpcf7_contact_form&#038;p=268</guid>
+		<guid isPermaLink="false">https://demo.fireflythemes.com/versatile-business-music/?post_type=wpcf7_contact_form&#038;p=268</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="inner-wrapper clear-fix">
 <div class="ff-grid-6">
@@ -8761,7 +8761,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Versatile Business Pro (https://fireflythemes.com/demo/versatile-business-music)
+This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/versatile-business-music)
 Reply-To: [your-email]
 
 
@@ -8774,7 +8774,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Versatile Business Pro (https://fireflythemes.com/demo/versatile-business-music)
+This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/versatile-business-music)
 Reply-To: info@example.com
 
 
@@ -8845,7 +8845,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Versatile Business Pro (https://fireflythemes.com/demo/versatile-business-music)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/versatile-business-music)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -8853,7 +8853,7 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://fire
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Versatile Business Pro (https://fireflythemes.com/demo/versatile-business-music)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/versatile-business-music)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
