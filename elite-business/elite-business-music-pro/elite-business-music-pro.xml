@@ -35,7 +35,7 @@
 	<wp:base_site_url>http://demo.fireflythemes.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.fireflythemes.com/elite-business-music-pro</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fireflythemes]]></wp:author_login><wp:author_email><![CDATA[[info@fireflythemes.com]]]></wp:author_email><wp:author_display_name><![CDATA[fireflythemes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fireflythemes]]></wp:author_login><wp:author_email><![CDATA[[donotreply@example.com]]]></wp:author_email><wp:author_display_name><![CDATA[fireflythemes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[shopmanager]]></wp:author_login><wp:author_email><![CDATA[info@woocommerce.com]]></wp:author_email><wp:author_display_name><![CDATA[Shop Manager]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
@@ -10207,7 +10207,7 @@
 1
 Versatile Business Pro "[your-subject]"
 Versatile Business Pro <[_site_admin_email]>
-info@example.com
+donotreply@example.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -10292,7 +10292,7 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:39:"Versatile Business Pro "[your-subject]"";s:6:"sender";s:47:"Versatile Business Pro <[_site_admin_email]>";s:9:"recipient";s:16:"info@example.com";s:4:"body";s:218:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:39:"Versatile Business Pro "[your-subject]"";s:6:"sender";s:47:"Versatile Business Pro <[_site_admin_email]>";s:9:"recipient";s:22:"donotreply@example.com";s:4:"body";s:218:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -10341,8 +10341,8 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://demo
 [submit "Submit Now"]
 1
 Deneb Pro "[your-subject]"
-Deneb Pro <info@example.com>
-info@example.com
+Deneb Pro <donotreply@example.com>
+donotreply@example.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -10357,14 +10357,14 @@ Reply-To: [your-email]
 
 
 Deneb Pro "[your-subject]"
-Deneb Pro <info@example.com>
+Deneb Pro <donotreply@example.com>
 [your-email]
 Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on Deneb Pro (https://demo.fireflythemes.com/deneb-dark)
-Reply-To: info@example.com
+Reply-To: donotreply@example.com
 
 
 
@@ -10469,8 +10469,8 @@ The telephone number is invalid.]]></content:encoded>
 </div>
 1
 Versatile Business Pro "[your-subject]"
-Versatile Business Pro <info@example.com>
-info@example.com
+Versatile Business Pro <donotreply@example.com>
+donotreply@example.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -10485,14 +10485,14 @@ Reply-To: [your-email]
 
 
 Versatile Business Pro "[your-subject]"
-Versatile Business Pro <info@example.com>
+Versatile Business Pro <donotreply@example.com>
 [your-email]
 Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/deneb-dark)
-Reply-To: info@example.com
+Reply-To: donotreply@example.com
 
 
 

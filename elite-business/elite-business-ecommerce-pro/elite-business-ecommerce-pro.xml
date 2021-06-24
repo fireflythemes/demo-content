@@ -35,7 +35,7 @@
 	<wp:base_site_url>http://demo.fireflythemes.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.fireflythemes.com/elite-business-ecommerce-pro</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fireflythemes]]></wp:author_login><wp:author_email><![CDATA[[info@fireflythemes.com]]]></wp:author_email><wp:author_display_name><![CDATA[fireflythemes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fireflythemes]]></wp:author_login><wp:author_email><![CDATA[[donotreply@example.com]]]></wp:author_email><wp:author_display_name><![CDATA[fireflythemes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[shopmanager]]></wp:author_login><wp:author_email><![CDATA[info@woocommerce.com]]></wp:author_email><wp:author_display_name><![CDATA[Shop Manager]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
@@ -5820,7 +5820,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 							<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
 			<wp:comment_author><![CDATA[fireflythemes]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[[info@fireflythemes.com]]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[[donotreply@example.com]]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[103.124.98.215]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2020-06-21 09:37:33]]></wp:comment_date>
@@ -5838,7 +5838,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 					<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
 			<wp:comment_author><![CDATA[fireflythemes]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[[info@fireflythemes.com]]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[[donotreply@example.com]]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[103.124.98.215]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2020-06-21 09:38:39]]></wp:comment_date>
@@ -6204,7 +6204,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 							<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
 			<wp:comment_author><![CDATA[fireflythemes]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[[info@fireflythemes.com]]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[[donotreply@example.com]]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[103.124.96.149]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2020-06-25 07:20:15]]></wp:comment_date>
