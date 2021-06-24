@@ -3355,8 +3355,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 [submit "Send"]
 1
 FF. M. Blog "[your-subject]"
-FF. M. Blog <info@example.com>
-info@example.com
+FF. M. Blog <donotreply@example.com>
+donotreply@example.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -3371,14 +3371,14 @@ Reply-To: [your-email]
 
 
 FF. M. Blog "[your-subject]"
-FF. M. Blog <info@example.com>
+FF. M. Blog <donotreply@example.com>
 [your-email]
 Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on FF. M. Blog (https://demo.fireflythemes.com/ff-multipurpose-blog)
-Reply-To: info@example.com
+Reply-To: donotreply@example.com
 
 
 
@@ -3427,11 +3427,11 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:28:"FF. M. Blog "[your-subject]"";s:6:"sender";s:36:"FF. M. Blog <info@example.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:143:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:28:"FF. M. Blog "[your-subject]"";s:6:"sender";s:36:"FF. M. Blog <donotreply@example.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:143:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on FF. M. Blog (https://demo.fireflythemes.com/ff-multipurpose-blog)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on FF. M. Blog (https://demo.fireflythemes.com/ff-multipurpose-blog)";s:18:"additional_headers";s:32:"Reply-To: donotreply@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
@@ -3451,7 +3451,7 @@ This e-mail was sent from a contact form on FF. M. Blog (https://demo.fireflythe
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:28:"FF. M. Blog "[your-subject]"";s:6:"sender";s:36:"FF. M. Blog <info@example.com>";s:9:"recipient";s:22:"info@example.com";s:4:"body";s:201:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:28:"FF. M. Blog "[your-subject]"";s:6:"sender";s:36:"FF. M. Blog <donotreply@example.com>";s:9:"recipient";s:22:"donotreply@example.com";s:4:"body";s:201:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
