@@ -6605,8 +6605,8 @@ Please keep up the good work.I am taking in as much info as is possible so I can
 [submit "Send"]
 1
 Versatile Business "[your-subject]"
-Versatile Business <info@yourmainsites.com>
-info@yourmainsites.com
+Versatile Business <donotreply@example.com>
+donotreply@example.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -6621,14 +6621,14 @@ Reply-To: [your-email]
 
 
 Versatile Business "[your-subject]"
-Versatile Business <info@yourmainsites.com>
+Versatile Business <donotreply@example.com>
 [your-email]
 Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on Versatile Business (https://demo.fireflythemes.com/radiant-business-free)
-Reply-To: info@yourmainsites.com
+Reply-To: donotreply@example.com
 
 
 
@@ -6687,7 +6687,7 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:35:"Versatile Business "[your-subject]"";s:6:"sender";s:43:"Versatile Business <info@yourmainsites.com>";s:9:"recipient";s:22:"info@yourmainsites.com";s:4:"body";s:209:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:35:"Versatile Business "[your-subject]"";s:6:"sender";s:43:"Versatile Business <donotreply@example.com>";s:9:"recipient";s:22:"donotreply@example.com";s:4:"body";s:209:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -6698,11 +6698,11 @@ This e-mail was sent from a contact form on Versatile Business (https://demo.fir
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:35:"Versatile Business "[your-subject]"";s:6:"sender";s:43:"Versatile Business <info@yourmainsites.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:151:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:35:"Versatile Business "[your-subject]"";s:6:"sender";s:43:"Versatile Business <donotreply@example.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:151:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Versatile Business (https://demo.fireflythemes.com/radiant-business-free)";s:18:"additional_headers";s:32:"Reply-To: info@yourmainsites.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Versatile Business (https://demo.fireflythemes.com/radiant-business-free)";s:18:"additional_headers";s:32:"Reply-To: donotreply@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>

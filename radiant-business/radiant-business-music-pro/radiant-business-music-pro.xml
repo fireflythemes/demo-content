@@ -11025,8 +11025,8 @@
 </div>
 1
 Versatile Business Pro "[your-subject]"
-Versatile Business Pro <info@yourmainsites.com>
-info@example.com
+Versatile Business Pro <donotreply@example.com>
+donotreply@example.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -11041,14 +11041,14 @@ Reply-To: [your-email]
 
 
 Versatile Business Pro "[your-subject]"
-Versatile Business Pro <info@yourmainsites.com>
+Versatile Business Pro <donotreply@example.com>
 [your-email]
 Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/elegant-business-music-pro)
-Reply-To: info@yourmainsites.com
+Reply-To: donotreply@example.com
 
 
 
@@ -11113,7 +11113,7 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:39:"Versatile Business Pro "[your-subject]"";s:6:"sender";s:47:"Versatile Business Pro <info@yourmainsites.com>";s:9:"recipient";s:16:"info@example.com";s:4:"body";s:218:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:39:"Versatile Business Pro "[your-subject]"";s:6:"sender";s:47:"Versatile Business Pro <donotreply@example.com>";s:9:"recipient";s:22:"donotreply@example.com";s:4:"body";s:218:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -11124,11 +11124,11 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://demo
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:39:"Versatile Business Pro "[your-subject]"";s:6:"sender";s:47:"Versatile Business Pro <info@yourmainsites.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:160:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:39:"Versatile Business Pro "[your-subject]"";s:6:"sender";s:47:"Versatile Business Pro <donotreply@example.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:160:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/elegant-business-music-pro)";s:18:"additional_headers";s:32:"Reply-To: info@yourmainsites.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/elegant-business-music-pro)";s:18:"additional_headers";s:32:"Reply-To: donotreply@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -11162,8 +11162,8 @@ This e-mail was sent from a contact form on Versatile Business Pro (https://demo
 [submit "Submit Now"]
 1
 Deneb Pro "[your-subject]"
-Deneb Pro <info@example.com>
-info@example.com
+Deneb Pro <donotreply@example.com>
+donotreply@example.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -11178,14 +11178,14 @@ Reply-To: [your-email]
 
 
 Deneb Pro "[your-subject]"
-Deneb Pro <info@example.com>
+Deneb Pro <donotreply@example.com>
 [your-email]
 Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on Deneb Pro (https://demo.fireflythemes.com/deneb-dark)
-Reply-To: info@example.com
+Reply-To: donotreply@example.com
 
 
 
@@ -11292,8 +11292,8 @@ The telephone number is invalid.]]></content:encoded>
 </div>
 1
 Versatile Business Pro "[your-subject]"
-Versatile Business Pro <info@example.com>
-info@example.com
+Versatile Business Pro <donotreply@example.com>
+donotreply@example.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -11308,14 +11308,14 @@ Reply-To: [your-email]
 
 
 Versatile Business Pro "[your-subject]"
-Versatile Business Pro <info@example.com>
+Versatile Business Pro <donotreply@example.com>
 [your-email]
 Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on Versatile Business Pro (https://demo.fireflythemes.com/deneb-dark)
-Reply-To: info@example.com
+Reply-To: donotreply@example.com
 
 
 
