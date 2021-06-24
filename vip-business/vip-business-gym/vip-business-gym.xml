@@ -5639,8 +5639,8 @@
 </div>
 1
 VIP Business Pro "[your-subject]"
-VIP Business Pro <info@example.com>
-info@example.com
+VIP Business Pro <donotreply@example.com>
+donotreply@example.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -5655,14 +5655,14 @@ Reply-To: [your-email]
 
 
 VIP Business Pro "[your-subject]"
-VIP Business Pro <info@example.com>
+VIP Business Pro <donotreply@example.com>
 [your-email]
 Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on VIP Business Pro (https://demo.fireflythemes.com/vip-business-gym)
-Reply-To: info@example.com
+Reply-To: donotreply@example.com
 
 
 
@@ -5725,7 +5725,7 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:39:"VIP Business Pro "[your-subject]"";s:6:"sender";s:47:"VIP Business Pro <info@example.com>";s:9:"recipient";s:22:"info@example.com";s:4:"body";s:208:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:39:"VIP Business Pro "[your-subject]"";s:6:"sender";s:47:"VIP Business Pro <donotreply@example.com>";s:9:"recipient";s:22:"donotreply@example.com";s:4:"body";s:208:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -5736,11 +5736,11 @@ This e-mail was sent from a contact form on VIP Business Pro (https://demo.firef
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:39:"VIP Business Pro "[your-subject]"";s:6:"sender";s:47:"VIP Business Pro <info@example.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:150:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:39:"VIP Business Pro "[your-subject]"";s:6:"sender";s:47:"VIP Business Pro <donotreply@example.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:150:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on VIP Business Pro (https://demo.fireflythemes.com/vip-business-gym)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on VIP Business Pro (https://demo.fireflythemes.com/vip-business-gym)";s:18:"additional_headers";s:32:"Reply-To: donotreply@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -5777,8 +5777,8 @@ This e-mail was sent from a contact form on VIP Business Pro (https://demo.firef
 [submit "Send"]
 1
 FF Multipurpose Pro "[your-subject]"
-FF Multipurpose Pro <info@example.com>
-info@example.com
+FF Multipurpose Pro <donotreply@example.com>
+donotreply@example.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -5793,14 +5793,14 @@ Reply-To: [your-email]
 
 
 FF Multipurpose Pro "[your-subject]"
-FF Multipurpose Pro <info@example.com>
+FF Multipurpose Pro <donotreply@example.com>
 [your-email]
 Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/vip-business-gym)
-Reply-To: info@example.com
+Reply-To: donotreply@example.com
 
 
 
@@ -5857,7 +5857,7 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:36:"FF Multipurpose Pro "[your-subject]"";s:6:"sender";s:44:"FF Multipurpose Pro <info@example.com>";s:9:"recipient";s:22:"info@example.com";s:4:"body";s:205:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:36:"FF Multipurpose Pro "[your-subject]"";s:6:"sender";s:44:"FF Multipurpose Pro <donotreply@example.com>";s:9:"recipient";s:22:"donotreply@example.com";s:4:"body";s:205:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -5868,11 +5868,11 @@ This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fi
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:36:"FF Multipurpose Pro "[your-subject]"";s:6:"sender";s:44:"FF Multipurpose Pro <info@example.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:147:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:36:"FF Multipurpose Pro "[your-subject]"";s:6:"sender";s:44:"FF Multipurpose Pro <donotreply@example.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:147:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/vip-business-gym)";s:18:"additional_headers";s:32:"Reply-To: info@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on FF Multipurpose Pro (https://demo.fireflythemes.com/vip-business-gym)";s:18:"additional_headers";s:32:"Reply-To: donotreply@example.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
