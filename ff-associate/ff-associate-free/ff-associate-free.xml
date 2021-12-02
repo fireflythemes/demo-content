@@ -35,7 +35,7 @@
 	<wp:base_site_url>https://demo.fireflythemes.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.fireflythemes.com/ff-associate-free</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fireflythemes]]></wp:author_login><wp:author_email><![CDATA[info@fireflythemes.com]]></wp:author_email><wp:author_display_name><![CDATA[fireflythemes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fireflythemes]]></wp:author_login><wp:author_email><!info@fireflythemes.com</wp:author_email><wp:author_display_name><![CDATA[fireflythemes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>20</wp:term_id>
@@ -6392,7 +6392,7 @@ audio/mpeg
 </div>
 1
 [_site_title] "[your-subject]"
-[_site_title] <info@fireflythemes.com>
+[_site_title] <donotreply@example.com>
 [_site_admin_email]
 From: [your-name] <[your-email]>
 Subject: [your-subject]
@@ -6408,7 +6408,7 @@ Reply-To: [your-email]
 
 
 [_site_title] "[your-subject]"
-[_site_title] <info@fireflythemes.com>
+[_site_title] <donotreply@example.com>
 [your-email]
 Message Body:
 [your-message]
@@ -6479,7 +6479,7 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:38:"[_site_title] <info@fireflythemes.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:163:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:38:"[_site_title] <donotreply@example.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:163:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -6490,7 +6490,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:38:"[_site_title] <info@fireflythemes.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:105:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:38:"[_site_title] <donotreply@example.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:105:"Message Body:
 [your-message]
 
 -- 
